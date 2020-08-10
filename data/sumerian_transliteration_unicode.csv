@@ -1,923 +1,923 @@
-Sign,Unicode,Transliteration
-𒀀,U+12000,A
-𒀁,U+12001,A x A
-𒀂,U+12002,A x BAD
-𒀃,U+12003,A x GAN2 tenû
-𒀄,U+12004,A x ḪA
-𒀅,U+12005,A x IGI
-𒀆,U+12006,A x LAGAR gunû
-𒀇,U+12007,A x MUŠ
-𒀈,U+12008,A x SAG
-𒀉,U+12009,A2
-𒀊,U+1200A,AB
-𒀋,U+1200B,AB x AŠ2
-𒀌,U+1200C,AB x DUN3 gunû
-𒀍,U+1200D,AB x GAL
-𒀎,U+1200E,AB x GAN2 tenû
-𒀏,U+1200F,AB x ḪA
-𒀐,U+12010,AB x IGI gunû
-𒀑,U+12011,AB x IMIN
-𒀒,U+12012,AB x LAGAB
-𒀓,U+12013,AB x ŠEŠ
-𒀔,U+12014,AB x U + U + U
-𒀕,U+12015,AB gunû
-𒀖,U+12016,AB2
-𒀗,U+12017,AB2 x BALAG
-𒀘,U+12018,AB2 x GAN2 tenû
-𒀙,U+12019,AB2 x ME + EN
-𒀚,U+1201A,AB2 x ŠA3
-𒀛,U+1201B,AB2 x TAK4
-𒀜,U+1201C,AD
-𒀝,U+1201D,AK
-𒀞,U+1201E,AK x ERIN2
-𒀟,U+1201F,AK x ŠITA + GIŠ
-𒀠,U+12020,AL
-𒀡,U+12021,AL x AL
-𒀢,U+12022,AL x DIM2
-𒀣,U+12023,AL x GIŠ
-𒀤,U+12024,AL x ḪA
-𒀥,U+12025,AL x KAD3
-𒀦,U+12026,AL x KI
-𒀧,U+12027,AL x ŠE
-𒀨,U+12028,AL x UŠ
-𒀩,U+12029,ALAN
-𒀪,U+1202A,aleph
-𒀫,U+1202B,AMAR
-𒀬,U+1202C,AMAR x ŠE
-𒀭,U+1202D,AN
-𒀮,U+1202E,AN / AN
-𒀯,U+1202F,AN three times
-𒀰,U+12030,AN + NAGA opposing AN + NAGA
-𒀱,U+12031,AN + NAGA squared
-𒀲,U+12032,ANŠE
-𒀳,U+12033,APIN
-𒀴,U+12034,ARAD
-𒀵,U+12035,ARAD x KUR
-𒀶,U+12036,ARKAB
-𒀷,U+12037,ASAL2
-𒀸,U+12038,AŠ
-𒀹,U+12039,AŠ ZIDA tenû
-𒀺,U+1203A,AŠ KABA tenû
-𒀻,U+1203B,AŠ / AŠ TUG2 / TUG2 TUG2 / TUG2 PAP
-𒀼,U+1203C,AŠ / AŠ / AŠ
-𒀽,U+1203D,AŠ / AŠ / AŠ crossing AŠ / AŠ / AŠ
-𒀾,U+1203E,AŠ2
-𒀿,U+1203F,AŠGAB
-𒁀,U+12040,BA
-𒁁,U+12041,BAD
-𒁂,U+12042,BAG3
-𒁃,U+12043,BAḪAR2
-𒁄,U+12044,BAL
-𒁅,U+12045,BAL / BAL
-𒁆,U+12046,BALAG
-𒁇,U+12047,BAR
-𒁈,U+12048,BARA2
-𒁉,U+12049,BI
-𒁊,U+1204A,BI x A
-𒁋,U+1204B,BI x GAR
-𒁌,U+1204C,BI x IGI gunû
-𒁍,U+1204D,BU
-𒁎,U+1204E,BU / BU AB
-𒁏,U+1204F,BU / BU UN
-𒁐,U+12050,BU crossing BU
-𒁑,U+12051,BULUG
-𒁒,U+12052,BULUG / BULUG
-𒁓,U+12053,BUR
-𒁔,U+12054,BUR2
-𒁕,U+12055,DA
-𒁖,U+12056,DAG
-𒁗,U+12057,DAG KISIM5 x A + MAŠ
-𒁘,U+12058,DAG KISIM5 x AMAR
-𒁙,U+12059,DAG KISIM5 x BALAG
-𒁚,U+1205A,DAG KISIM5 x BI
-𒁛,U+1205B,DAG KISIM5 x GA
-𒁜,U+1205C,DAG KISIM5 x GA + MAŠ
-𒁝,U+1205D,DAG KISIM5 x GI
-𒁞,U+1205E,DAG KISIM5 x GIR2
-𒁟,U+1205F,DAG KISIM5 x GUD
-𒁠,U+12060,DAG KISIM5 x ḪA
-𒁡,U+12061,DAG KISIM5 x IR
-𒁢,U+12062,DAG KISIM5 x IR + LU
-𒁣,U+12063,DAG KISIM5 x KAK
-𒁤,U+12064,DAG KISIM5 x LA
-𒁥,U+12065,DAG KISIM5 x LU
-𒁦,U+12066,DAG KISIM5 x LU + MAŠ2
-𒁧,U+12067,DAG KISIM5 x LUM
-𒁨,U+12068,DAG KISIM5 x NE
-𒁩,U+12069,DAG KISIM5 x PAP + PAP
-𒁪,U+1206A,DAG KISIM5 x SI
-𒁫,U+1206B,DAG KISIM5 x TAK4
-𒁬,U+1206C,DAG KISIM5 x U2 + GIR2
-𒁭,U+1206D,DAG KISIM5 x UŠ
-𒁮,U+1206E,DAM
-𒁯,U+1206F,DAR
-𒁰,U+12070,DARA3
-𒁱,U+12071,DARA4
-𒁲,U+12072,DI
-𒁳,U+12073,DIB
-𒁴,U+12074,DIM
-𒁵,U+12075,DIM x ŠE
-𒁶,U+12076,DIM2
-𒁷,U+12077,DIN
-𒁸,U+12078,DIN KASKAL U gunû DIŠ
-𒁹,U+12079,DIŠ
-𒁺,U+1207A,DU
-𒁻,U+1207B,DU / DU
-𒁼,U+1207C,DU gunû
-𒁽,U+1207D,DU šešig
-𒁾,U+1207E,DUB
-𒁿,U+1207F,DUB x EŠ2
-𒂀,U+12080,DUB2
-𒂁,U+12081,DUG
-𒂂,U+12082,DUGUD
-𒂃,U+12083,DUḪ
-𒂄,U+12084,DUN
-𒂅,U+12085,DUN3
-𒂆,U+12086,DUN3 gunû
-𒂇,U+12087,DUN3 gunû gunû
-𒂈,U+12088,DUN4
-𒂉,U+12089,DUR2
-𒂊,U+1208A,E
-𒂋,U+1208B,E x PAP
-𒂌,U+1208C,E / E NUN / NUN
-𒂍,U+1208D,E2
-𒂎,U+1208E,E2 x A + ḪA + DA
-𒂏,U+1208F,E2 x GAR
-𒂐,U+12090,E2 x MI
-𒂑,U+12091,E2 x SAL
-𒂒,U+12092,E2 x ŠE
-𒂓,U+12093,E2 x U
-𒂔,U+12094,EDIN
-𒂕,U+12095,EGIR
-𒂖,U+12096,EL
-𒂗,U+12097,EN
-𒂘,U+12098,EN x GAN2
-𒂙,U+12099,EN x GAN2 tenû
-𒂚,U+1209A,EN x ME
-𒂛,U+1209B,EN crossing EN
-𒂜,U+1209C,EN opposing EN
-𒂝,U+1209D,EN squared
-𒂞,U+1209E,EREN
-𒂟,U+1209F,ERIN2
-𒂠,U+120A0,EŠ2
-𒂡,U+120A1,EZEN
-𒂢,U+120A2,EZEN x A
-𒂣,U+120A3,EZEN x A + LAL
-𒂤,U+120A4,EZEN x A + LAL x LAL
-𒂥,U+120A5,EZEN x AN
-𒂦,U+120A6,EZEN x BAD
-𒂧,U+120A7,EZEN x DUN3 gunû
-𒂨,U+120A8,EZEN x DUN3 gunû gunû
-𒂩,U+120A9,EZEN x ḪA
-𒂪,U+120AA,EZEN x ḪA gunû
-𒂫,U+120AB,EZEN x IGI gunû
-𒂬,U+120AC,EZEN x KASKAL
-𒂭,U+120AD,EZEN x KASKAL squared
-𒂮,U+120AE,EZEN x KU3
-𒂯,U+120AF,EZEN x LA
-𒂰,U+120B0,EZEN x LAL x LAL
-𒂱,U+120B1,EZEN x LI
-𒂲,U+120B2,EZEN x LU
-𒂳,U+120B3,EZEN x U2
-𒂴,U+120B4,EZEN x UD
-𒂵,U+120B5,GA
-𒂶,U+120B6,GA gunû
-𒂷,U+120B7,GA2
-𒂸,U+120B8,GA2 x A + DA + ḪA
-𒂹,U+120B9,GA2 x A + ḪA
-𒂺,U+120BA,GA2 x A + IGI
-𒂻,U+120BB,GA2 x AB2 tenû + TAB
-𒂼,U+120BC,GA2 x AN
-𒂽,U+120BD,GA2 x AŠ
-𒂾,U+120BE,GA2 x AŠ2 + GAL
-𒂿,U+120BF,GA2 x BAD
-𒃀,U+120C0,GA2 x BAR + RA
-𒃁,U+120C1,GA2 x BUR
-𒃂,U+120C2,GA2 x BUR + RA
-𒃃,U+120C3,GA2 x DA
-𒃄,U+120C4,GA2 x DI
-𒃅,U+120C5,GA2 x DIM x ŠE
-𒃆,U+120C6,GA2 x DUB
-𒃇,U+120C7,GA2 x EL
-𒃈,U+120C8,GA2 x EL + LA
-𒃉,U+120C9,GA2 x EN
-𒃊,U+120CA,GA2 x EN x GAN2 tenû
-𒃋,U+120CB,GA2 x GAN2 tenû
-𒃌,U+120CC,GA2 x GAR
-𒃍,U+120CD,GA2 x GI
-𒃎,U+120CE,GA2 x GI4
-𒃏,U+120CF,GA2 x GI4 + A
-𒃐,U+120D0,GA2 x GIR2 + SU
-𒃑,U+120D1,GA2 x ḪA + LU + EŠ2
-𒃒,U+120D2,GA2 x ḪAL
-𒃓,U+120D3,GA2 x ḪAL + LA
-𒃔,U+120D4,GA2 x ḪI + LI
-𒃕,U+120D5,GA2 x ḪUB2
-𒃖,U+120D6,GA2 x IGI gunû
-𒃗,U+120D7,GA2 x IŠ + ḪU + AŠ
-𒃘,U+120D8,GA2 x KAK
-𒃙,U+120D9,GA2 x KASKAL
-𒃚,U+120DA,GA2 x KID
-𒃛,U+120DB,GA2 x KID + LAL
-𒃜,U+120DC,GA2 x KU3 + AN
-𒃝,U+120DD,GA2 x LA
-𒃞,U+120DE,GA2 x ME + EN
-𒃟,U+120DF,GA2 x MI
-𒃠,U+120E0,GA2 x NUN
-𒃡,U+120E1,GA2 x NUN / NUN
-𒃢,U+120E2,GA2 x PA
-𒃣,U+120E3,GA2 x SAL
-𒃤,U+120E4,GA2 x SAR
-𒃥,U+120E5,GA2 x ŠE
-𒃦,U+120E6,GA2 x ŠE + TUR
-𒃧,U+120E7,GA2 x ŠID
-𒃨,U+120E8,GA2 x SUM
-𒃩,U+120E9,GA2 x TAK4
-𒃪,U+120EA,GA2 x U
-𒃫,U+120EB,GA2 x UD
-𒃬,U+120EC,GA2 x UD + DU
-𒃭,U+120ED,GA2 / GA2
-𒃮,U+120EE,GABA
-𒃯,U+120EF,GABA crossing GABA
-𒃰,U+120F0,GAD
-𒃱,U+120F1,GAD / GAD GAR / GAR
-𒃲,U+120F2,GAL
-𒃳,U+120F3,GAL GAD / GAD GAR / GAR
-𒃴,U+120F4,GALAM
-𒃵,U+120F5,GAM
-𒃶,U+120F6,GAN
-𒃷,U+120F7,GAN2
-𒃸,U+120F8,GAN2 tenû
-𒃹,U+120F9,GAN2 / GAN2
-𒃺,U+120FA,GAN2 crossing GAN2
-𒃻,U+120FB,GAR
-𒃼,U+120FC,GAR3
-𒃽,U+120FD,GAŠAN
-𒃾,U+120FE,GEŠTIN
-𒃿,U+120FF,GEŠTIN x KUR
-𒄀,U+12100,GI
-𒄁,U+12101,GI x E
-𒄂,U+12102,GI x U
-𒄃,U+12103,GI crossing GI
-𒄄,U+12104,GI4
-𒄅,U+12105,GI4 / GI4
-𒄆,U+12106,GI4 crossing GI4
-𒄇,U+12107,GIDIM
-𒄈,U+12108,GIR2
-𒄉,U+12109,GIR2 gunû
-𒄊,U+1210A,GIR3
-𒄋,U+1210B,GIR3 x A + IGI
-𒄌,U+1210C,GIR3 x GAN2 tenû
-𒄍,U+1210D,GIR3 x IGI
-𒄎,U+1210E,GIR3 x LU + IGI
-𒄏,U+1210F,GIR3 x PA
-𒄐,U+12110,GISAL
-𒄑,U+12111,GIŠ
-𒄒,U+12112,GIŠ crossing GIŠ
-𒄓,U+12113,GIŠ x BAD
-𒄔,U+12114,GIŠ x TAK4
-𒄕,U+12115,GIŠ tenû
-𒄖,U+12116,GU
-𒄗,U+12117,GU crossing GU
-𒄘,U+12118,GU2
-𒄙,U+12119,GU2 x KAK
-𒄚,U+1211A,GU2 x KAK x IGI gunû
-𒄛,U+1211B,GU2 x NUN
-𒄜,U+1211C,GU2 x SAL + TUG2
-𒄝,U+1211D,GU2 gunû
-𒄞,U+1211E,GUD
-𒄟,U+1211F,GUD x A + KUR
-𒄠,U+12120,GUD x KUR
-𒄡,U+12121,GUD / GUD LUGAL
-𒄢,U+12122,GUL
-𒄣,U+12123,GUM
-𒄤,U+12124,GUM x ŠE
-𒄥,U+12125,GUR
-𒄦,U+12126,GUR7
-𒄧,U+12127,GURUN
-𒄨,U+12128,GURUŠ
-𒄩,U+12129,ḪA
-𒄪,U+1212A,ḪA tenû
-𒄫,U+1212B,ḪA gunû
-𒄬,U+1212C,ḪAL
-𒄭,U+1212D,ḪI
-𒄮,U+1212E,ḪI x AŠ
-𒄯,U+1212F,ḪI x AŠ2
-𒄰,U+12130,ḪI x BAD
-𒄱,U+12131,ḪI x DIŠ
-𒄲,U+12132,ḪI x GAD
-𒄳,U+12133,ḪI x KIN
-𒄴,U+12134,ḪI x NUN
-𒄵,U+12135,ḪI x ŠE
-𒄶,U+12136,ḪI x U
-𒄷,U+12137,ḪU
-𒄸,U+12138,ḪUB2
-𒄹,U+12139,ḪUB2 x AN
-𒄺,U+1213A,ḪUB2 x ḪAL
-𒄻,U+1213B,ḪUB2 x KASKAL
-𒄼,U+1213C,ḪUB2 x LIŠ
-𒄽,U+1213D,ḪUB2 x UD
-𒄾,U+1213E,ḪUL2
-𒄿,U+1213F,I
-𒅀,U+12140,I A
-𒅁,U+12141,IB
-𒅂,U+12142,IDIM
-𒅃,U+12143,IDIM / IDIM BUR
-𒅄,U+12144,IDIM / IDIM squared
-𒅅,U+12145,IG
-𒅆,U+12146,IGI
-𒅇,U+12147,IGI DIB
-𒅈,U+12148,IGI RI
-𒅉,U+12149,IGI / IGI ŠIR / ŠIR UD / UD
-𒅊,U+1214A,IGI gunû
-𒅋,U+1214B,IL
-𒅌,U+1214C,IL x GAN2 tenû
-𒅍,U+1214D,IL2
-𒅎,U+1214E,IM
-𒅏,U+1214F,IM x TAK4
-𒅐,U+12150,IM crossing IM
-𒅑,U+12151,IM opposing IM
-𒅒,U+12152,IM squared
-𒅓,U+12153,IMIN
-𒅔,U+12154,IN
-𒅕,U+12155,IR
-𒅖,U+12156,IŠ
-𒅗,U+12157,KA
-𒅘,U+12158,KA x A
-𒅙,U+12159,KA x AD
-𒅚,U+1215A,KA x AD + KU3
-𒅛,U+1215B,KA x AŠ2
-𒅜,U+1215C,KA x BAD
-𒅝,U+1215D,KA x BALAG
-𒅞,U+1215E,KA x BAR
-𒅟,U+1215F,KA x BI
-𒅠,U+12160,KA x ERIN2
-𒅡,U+12161,KA x EŠ2
-𒅢,U+12162,KA x GA
-𒅣,U+12163,KA x GAL
-𒅤,U+12164,KA x GAN2 tenû
-𒅥,U+12165,KA x GAR
-𒅦,U+12166,KA x GAR + ŠA3 + A
-𒅧,U+12167,KA x GI
-𒅨,U+12168,KA x GIR2
-𒅩,U+12169,KA x GIŠ + SAR
-𒅪,U+1216A,KA x GIŠ crossing GIŠ
-𒅫,U+1216B,KA x GU
-𒅬,U+1216C,KA x GUR7
-𒅭,U+1216D,KA x IGI
-𒅮,U+1216E,KA x IM
-𒅯,U+1216F,KA x KAK
-𒅰,U+12170,KA x KI
-𒅱,U+12171,KA x KID
-𒅲,U+12172,KA x LI
-𒅳,U+12173,KA x LU
-𒅴,U+12174,KA x ME
-𒅵,U+12175,KA x ME + DU
-𒅶,U+12176,KA x ME + GI
-𒅷,U+12177,KA x ME + TE
-𒅸,U+12178,KA x MI
-𒅹,U+12179,KA x MI + NUNUZ
-𒅺,U+1217A,KA x NE
-𒅻,U+1217B,KA x NUN
-𒅼,U+1217C,KA x PI
-𒅽,U+1217D,KA x RU
-𒅾,U+1217E,KA x SA
-𒅿,U+1217F,KA x SAR
-𒆀,U+12180,KA x ŠA
-𒆁,U+12181,KA x ŠE
-𒆂,U+12182,KA x ŠID
-𒆃,U+12183,KA x ŠU
-𒆄,U+12184,KA x SIG
-𒆅,U+12185,KA x SUḪUR
-𒆆,U+12186,KA x TAR
-𒆇,U+12187,KA x U
-𒆈,U+12188,KA x U2
-𒆉,U+12189,KA x UD
-𒆊,U+1218A,KA x UMUM x PA
-𒆋,U+1218B,KA x UŠ
-𒆌,U+1218C,KA x ZI
-𒆍,U+1218D,KA2
-𒆎,U+1218E,KA2 crossing KA2
-𒆏,U+1218F,KAB
-𒆐,U+12190,KAD2
-𒆑,U+12191,KAD3
-𒆒,U+12192,KAD4
-𒆓,U+12193,KAD5
-𒆔,U+12194,KAD5 / KAD5
-𒆕,U+12195,KAK
-𒆖,U+12196,KAK x IGI gunû
-𒆗,U+12197,KAL
-𒆘,U+12198,KAL x BAD
-𒆙,U+12199,KAL crossing KAL
-𒆚,U+1219A,KAM2
-𒆛,U+1219B,KAM4
-𒆜,U+1219C,KASKAL
-𒆝,U+1219D,KASKAL LAGAB x U / LAGAB x U
-𒆞,U+1219E,KASKAL / KASKAL LAGAB x U / LAGAB x U
-𒆟,U+1219F,KEŠ2
-𒆠,U+121A0,KI
-𒆡,U+121A1,KI x BAD
-𒆢,U+121A2,KI x U
-𒆣,U+121A3,KI x UD
-𒆤,U+121A4,KID
-𒆥,U+121A5,KIN
-𒆦,U+121A6,KISAL
-𒆧,U+121A7,KIŠ
-𒆨,U+121A8,KISIM5
-𒆩,U+121A9,KISIM5 / KISIM5
-𒆪,U+121AA,KU
-𒆫,U+121AB,KU / ḪI x AŠ2 KU / ḪI x ÁŠ
-𒆬,U+121AC,KU3
-𒆭,U+121AD,KU4
-𒆮,U+121AE,KU4 variant form
-𒆯,U+121AF,KU7
-𒆰,U+121B0,KUL
-𒆱,U+121B1,KUL gunû
-𒆲,U+121B2,KUN
-𒆳,U+121B3,KUR
-𒆴,U+121B4,KUR opposing KUR
-𒆵,U+121B5,KUŠU2
-𒆶,U+121B6,KWU318
-𒆷,U+121B7,LA
-𒆸,U+121B8,LAGAB
-𒆹,U+121B9,LAGAB x A
-𒆺,U+121BA,LAGAB x A + DA + ḪA
-𒆻,U+121BB,LAGAB x A + GAR
-𒆼,U+121BC,LAGAB x A + LAL
-𒆽,U+121BD,LAGAB x AL
-𒆾,U+121BE,LAGAB x AN
-𒆿,U+121BF,LAGAB x AŠ ZIDA tenû
-𒇀,U+121C0,LAGAB x BAD
-𒇁,U+121C1,LAGAB x BI
-𒇂,U+121C2,LAGAB x DAR
-𒇃,U+121C3,LAGAB x EN
-𒇄,U+121C4,LAGAB x GA
-𒇅,U+121C5,LAGAB x GAR
-𒇆,U+121C6,LAGAB x GUD
-𒇇,U+121C7,LAGAB x GUD + GUD
-𒇈,U+121C8,LAGAB x ḪA
-𒇉,U+121C9,LAGAB x ḪAL
-𒇊,U+121CA,LAGAB x ḪI x NUN
-𒇋,U+121CB,LAGAB x IGI gunû
-𒇌,U+121CC,LAGAB x IM
-𒇍,U+121CD,LAGAB x IM + ḪA
-𒇎,U+121CE,LAGAB x IM + LU
-𒇏,U+121CF,LAGAB x KI
-𒇐,U+121D0,LAGAB x KIN
-𒇑,U+121D1,LAGAB x KU3
-𒇒,U+121D2,LAGAB x KUL
-𒇓,U+121D3,LAGAB x KUL + ḪI + A
-𒇔,U+121D4,LAGAB x LAGAB
-𒇕,U+121D5,LAGAB x LIŠ
-𒇖,U+121D6,LAGAB x LU
-𒇗,U+121D7,LAGAB x LUL
-𒇘,U+121D8,LAGAB x ME
-𒇙,U+121D9,LAGAB x ME + EN
-𒇚,U+121DA,LAGAB x MUŠ
-𒇛,U+121DB,LAGAB x NE
-𒇜,U+121DC,LAGAB x ŠE + SUM
-𒇝,U+121DD,LAGAB x ŠITA + GIŠ + ERIN2
-𒇞,U+121DE,LAGAB x ŠITA + GIŠ tenû
-𒇟,U+121DF,LAGAB x ŠU2
-𒇠,U+121E0,LAGAB x ŠU2 + ŠU2
-𒇡,U+121E1,LAGAB x SUM
-𒇢,U+121E2,LAGAB x TAG
-𒇣,U+121E3,LAGAB x TAK4
-𒇤,U+121E4,LAGAB x TE + A + SU + NA
-𒇥,U+121E5,LAGAB x U
-𒇦,U+121E6,LAGAB x U + A
-𒇧,U+121E7,LAGAB x U + U + U
-𒇨,U+121E8,LAGAB x U2 + AŠ
-𒇩,U+121E9,LAGAB x UD
-𒇪,U+121EA,LAGAB x UŠ
-𒇫,U+121EB,LAGAB squared
-𒇬,U+121EC,LAGAR
-𒇭,U+121ED,LAGAR x ŠE
-𒇮,U+121EE,LAGAR x ŠE + SUM
-𒇯,U+121EF,LAGAR gunû
-𒇰,U+121F0,LAGAR gunû / LAGAR gunû ŠE
-𒇱,U+121F1,LAḪŠU
-𒇲,U+121F2,LAL
-𒇳,U+121F3,LAL x LAL
-𒇴,U+121F4,LAM
-𒇵,U+121F5,LAM x KUR
-𒇶,U+121F6,LAM x KUR + RU
-𒇷,U+121F7,LI
-𒇸,U+121F8,LIL
-𒇹,U+121F9,LIMMU2
-𒇺,U+121FA,LIŠ
-𒇻,U+121FB,LU
-𒇼,U+121FC,LU x BAD
-𒇽,U+121FD,LU2
-𒇾,U+121FE,LU2 x AL
-𒇿,U+121FF,LU2 x BAD
-𒈀,U+12200,LU2 x EŠ2
-𒈁,U+12201,LU2 x EŠ2 tenû
-𒈂,U+12202,LU2 x GAN2 tenû
-𒈃,U+12203,LU2 x ḪI x BAD
-𒈄,U+12204,LU2 x IM
-𒈅,U+12205,LU2 x KAD2
-𒈆,U+12206,LU2 x KAD3
-𒈇,U+12207,LU2 x KAD3 + AŠ
-𒈈,U+12208,LU2 x KI
-𒈉,U+12209,LU2 x LA + AŠ
-𒈊,U+1220A,LU2 x LAGAB
-𒈋,U+1220B,LU2 x ME + EN
-𒈌,U+1220C,LU2 x NE
-𒈍,U+1220D,LU2 x NU
-𒈎,U+1220E,LU2 x SI + AŠ
-𒈏,U+1220F,LU2 x SIK2 + BU
-𒈐,U+12210,LU2 x TUG2
-𒈑,U+12211,LU2 tenû
-𒈒,U+12212,LU2 crossing LU2
-𒈓,U+12213,LU2 opposing LU2
-𒈔,U+12214,LU2 squared
-𒈕,U+12215,LU2 šešig
-𒈖,U+12216,LU3
-𒈗,U+12217,LUGAL
-𒈘,U+12218,LUGAL / LUGAL
-𒈙,U+12219,LUGAL opposing LUGAL
-𒈚,U+1221A,LUGAL šešig
-𒈛,U+1221B,LUḪ
-𒈜,U+1221C,LUL
-𒈝,U+1221D,LUM
-𒈞,U+1221E,LUM / LUM
-𒈟,U+1221F,LUM / LUM GAR / GAR
-𒈠,U+12220,MA
-𒈡,U+12221,MA x TAK4
-𒈢,U+12222,MA gunû
-𒈣,U+12223,MA2
-𒈤,U+12224,MAḪ
-𒈥,U+12225,MAR
-𒈦,U+12226,MAŠ
-𒈧,U+12227,MAŠ2
-𒈨,U+12228,ME
-𒈩,U+12229,MES
-𒈪,U+1222A,MI
-𒈫,U+1222B,MIN
-𒈬,U+1222C,MU
-𒈭,U+1222D,MU / MU
-𒈮,U+1222E,MUG
-𒈯,U+1222F,MUG gunû
-𒈰,U+12230,MUNSUB
-𒈱,U+12231,MURGU2
-𒈲,U+12232,MUŠ
-𒈳,U+12233,MUŠ x A
-𒈴,U+12234,MUŠ x KUR
-𒈵,U+12235,MUŠ x ZA
-𒈶,U+12236,MUŠ / MUŠ
-𒈷,U+12237,MUŠ / MUŠ x A + NA
-𒈸,U+12238,MUŠ crossing MUŠ
-𒈹,U+12239,MUŠ3
-𒈺,U+1223A,MUŠ3 x A
-𒈻,U+1223B,MUŠ3 x A + DI
-𒈼,U+1223C,MUŠ3 x DI
-𒈽,U+1223D,MUŠ3 gunû
-𒈾,U+1223E,
-𒈿,U+1223F,NA2
-𒉀,U+12240,NAGA
-𒉁,U+12241,NAGA inverted
-𒉂,U+12242,NAGA x ŠU tenû
-𒉃,U+12243,NAGA opposing NAGA
-𒉄,U+12244,NAGAR
-𒉅,U+12245,NAM NUTILLU
-𒉆,U+12246,NAM
-𒉇,U+12247,NAM2
-𒉈,U+12248,NE
-𒉉,U+12249,NE x A
-𒉊,U+1224A,NE x UD
-𒉋,U+1224B,NE šešig
-𒉌,U+1224C,NI
-𒉍,U+1224D,NI x E
-𒉎,U+1224E,NI2
-𒉏,U+1224F,NIM
-𒉐,U+12250,NIM x GAN2 tenû
-𒉑,U+12251,NIM x GAR + GAN2 tenû
-𒉒,U+12252,NINDA2
-𒉓,U+12253,NINDA2 x AN
-𒉔,U+12254,NINDA2 x AŠ
-𒉕,U+12255,NINDA2 x AŠ + AŠ
-𒉖,U+12256,NINDA2 x GUD
-𒉗,U+12257,NINDA2 x ME + GAN2 tenû
-𒉘,U+12258,NINDA2 x NE
-𒉙,U+12259,NINDA2 x NUN
-𒉚,U+1225A,NINDA2 x ŠE
-𒉛,U+1225B,NINDA2 x ŠE + A AN
-𒉜,U+1225C,NINDA2 x ŠE + AŠ
-𒉝,U+1225D,NINDA2 x ŠE + AŠ + AŠ
-𒉞,U+1225E,NINDA2 x U2 + AŠ
-𒉟,U+1225F,NINDA2 x UŠ
-𒉠,U+12260,NISAG
-𒉡,U+12261,NU
-𒉢,U+12262,NU11
-𒉣,U+12263,NUN
-𒉤,U+12264,NUN LAGAR x GAR
-𒉥,U+12265,NUN LAGAR x MAŠ
-𒉦,U+12266,NUN LAGAR x SAL
-𒉧,U+12267,NUN LAGAR x SAL / NUN LAGAR x SAL
-𒉨,U+12268,NUN LAGAR x UŠ
-𒉩,U+12269,NUN tenû
-𒉪,U+1226A,NUN / NUN
-𒉫,U+1226B,NUN crossing NUN
-𒉬,U+1226C,NUN crossing NUN LAGAR / LAGAR
-𒉭,U+1226D,NUNUZ
-𒉮,U+1226E,NUNUZ AB2 x AŠGAB
-𒉯,U+1226F,NUNUZ AB2 x BI
-𒉰,U+12270,NUNUZ AB2 x DUG
-𒉱,U+12271,NUNUZ AB2 x GUD
-𒉲,U+12272,NUNUZ AB2 x IGI gunû
-𒉳,U+12273,NUNUZ AB2 x KAD3
-𒉴,U+12274,NUNUZ AB2 x LA
-𒉵,U+12275,NUNUZ AB2 x NE
-𒉶,U+12276,NUNUZ AB2 x SILA3
-𒉷,U+12277,NUNUZ AB2 x U2
-𒉸,U+12278,NUNUZ KISIM5 x BI
-𒉹,U+12279,NUNUZ KISIM5 x BI U
-𒉺,U+1227A,PA
-𒉻,U+1227B,PAD
-𒉼,U+1227C,PAN
-𒉽,U+1227D,PAP
-𒉾,U+1227E,PEŠ2
-𒉿,U+1227F,PI
-𒊀,U+12280,PI x A
-𒊁,U+12281,PI x AB
-𒊂,U+12282,PI x BI
-𒊃,U+12283,PI x BU
-𒊄,U+12284,PI x E
-𒊅,U+12285,PI x I
-𒊆,U+12286,PI x IB
-𒊇,U+12287,PI x U
-𒊈,U+12288,PI x U2
-𒊉,U+12289,PI crossing PI
-𒊊,U+1228A,PIRIG
-𒊋,U+1228B,PIRIG x KAL
-𒊌,U+1228C,PIRIG x UD
-𒊍,U+1228D,PIRIG x ZA
-𒊎,U+1228E,PIRIG opposing PIRIG
-𒊏,U+1228F,RA
-𒊐,U+12290,RAB
-𒊑,U+12291,RI
-𒊒,U+12292,RU
-𒊓,U+12293,SA
-𒊔,U+12294,SAG NUTILLU
-𒊕,U+12295,SAG
-𒊖,U+12296,SAG x A
-𒊗,U+12297,SAG x DU
-𒊘,U+12298,SAG x DUB
-𒊙,U+12299,SAG x ḪA
-𒊚,U+1229A,SAG x KAK
-𒊛,U+1229B,SAG x KUR
-𒊜,U+1229C,SAG x LUM
-𒊝,U+1229D,SAG x MI
-𒊞,U+1229E,SAG x NUN
-𒊟,U+1229F,SAG x SAL
-𒊠,U+122A0,SAG x ŠID
-𒊡,U+122A1,SAG x TAB
-𒊢,U+122A2,SAG x U2
-𒊣,U+122A3,SAG x UB
-𒊤,U+122A4,SAG x UM
-𒊥,U+122A5,SAG x UR
-𒊦,U+122A6,SAG x UŠ
-𒊧,U+122A7,SAG / SAG
-𒊨,U+122A8,SAG gunû
-𒊩,U+122A9,SAL
-𒊪,U+122AA,SAL LAGAB x AŠ2
-𒊫,U+122AB,SANGA2
-𒊬,U+122AC,SAR
-𒊭,U+122AD,ŠA
-𒊮,U+122AE,ŠA3
-𒊯,U+122AF,ŠA3 x A
-𒊰,U+122B0,ŠA3 x BAD
-𒊱,U+122B1,ŠA3 x GIŠ
-𒊲,U+122B2,ŠA3 x NE
-𒊳,U+122B3,ŠA3 x ŠU2
-𒊴,U+122B4,ŠA3 x TUR
-𒊵,U+122B5,ŠA3 x U
-𒊶,U+122B6,ŠA3 x U + A
-𒊷,U+122B7,ŠA6
-𒊸,U+122B8,ŠAB6
-𒊹,U+122B9,ŠAR2
-𒊺,U+122BA,ŠE
-𒊻,U+122BB,ŠE ḪU
-𒊼,U+122BC,ŠE / ŠE GAD / GAD GAR / GAR
-𒊽,U+122BD,ŠE / ŠE TAB / TAB GAR / GAR
-𒊾,U+122BE,ŠEG9
-𒊿,U+122BF,ŠEN
-𒋀,U+122C0,ŠEŠ
-𒋁,U+122C1,ŠEŠ2
-𒋂,U+122C2,ŠEŠLAM
-𒋃,U+122C3,ŠID
-𒋄,U+122C4,ŠID x A
-𒋅,U+122C5,ŠID x IM
-𒋆,U+122C6,ŠIM
-𒋇,U+122C7,ŠIM x A
-𒋈,U+122C8,ŠIM x BAL
-𒋉,U+122C9,ŠIM x BULUG
-𒋊,U+122CA,ŠIM x DIN
-𒋋,U+122CB,ŠIM x GAR
-𒋌,U+122CC,ŠIM x IGI
-𒋍,U+122CD,ŠIM x IGI gunû
-𒋎,U+122CE,ŠIM x KUŠU2
-𒋏,U+122CF,ŠIM x LUL
-𒋐,U+122D0,ŠIM x MUG
-𒋑,U+122D1,ŠIM x SAL
-𒋒,U+122D2,ŠINIG
-𒋓,U+122D3,ŠIR
-𒋔,U+122D4,ŠIR tenû
-𒋕,U+122D5,ŠIR / ŠIR BUR / BUR
-𒋖,U+122D6,ŠITA
-𒋗,U+122D7,ŠU
-𒋘,U+122D8,ŠU / inverted ŠU
-𒋙,U+122D9,ŠU2
-𒋚,U+122DA,ŠUBUR
-𒋛,U+122DB,SI
-𒋜,U+122DC,SI gunû
-𒋝,U+122DD,SIG
-𒋞,U+122DE,SIG4
-𒋟,U+122DF,SIG4 / SIG4 ŠU2
-𒋠,U+122E0,SIK2
-𒋡,U+122E1,SILA3
-𒋢,U+122E2,SU
-𒋣,U+122E3,SU / SU
-𒋤,U+122E4,SUD
-𒋥,U+122E5,SUD2
-𒋦,U+122E6,SUḪUR
-𒋧,U+122E7,SUM
-𒋨,U+122E8,SUMAŠ
-𒋩,U+122E9,SUR
-𒋪,U+122EA,SUR9
-𒋫,U+122EB,TA
-𒋬,U+122EC,TA*
-𒋭,U+122ED,TA x ḪI
-𒋮,U+122EE,TA x MI
-𒋯,U+122EF,TA gunû
-𒋰,U+122F0,TAB
-𒋱,U+122F1,TAB / TAB NI / NI DIŠ / DIŠ
-𒋲,U+122F2,TAB squared
-𒋳,U+122F3,TAG
-𒋴,U+122F4,TAG x BI
-𒋵,U+122F5,TAG x GUD
-𒋶,U+122F6,TAG x ŠE
-𒋷,U+122F7,TAG x ŠU
-𒋸,U+122F8,TAG x TUG2
-𒋹,U+122F9,TAG x UD
-𒋺,U+122FA,TAK4
-𒋻,U+122FB,TAR
-𒋼,U+122FC,TE
-𒋽,U+122FD,TE gunû
-𒋾,U+122FE,TI
-𒋿,U+122FF,TI tenû
-𒌀,U+12300,TIL
-𒌁,U+12301,TIR
-𒌂,U+12302,TIR x TAK4
-𒌃,U+12303,TIR / TIR
-𒌄,U+12304,TIR / TIR GAD / GAD GAR / GAR
-𒌅,U+12305,TU
-𒌆,U+12306,TUG2
-𒌇,U+12307,TUK
-𒌈,U+12308,TUM
-𒌉,U+12309,TUR
-𒌊,U+1230A,TUR / TUR ZA / ZA
-𒌋,U+1230B,U
-𒌌,U+1230C,U GUD
-𒌍,U+1230D,U U U
-𒌎,U+1230E,U / U PA / PA GAR / GAR
-𒌏,U+1230F,U / U SUR / SUR
-𒌐,U+12310,U / U U reversed / U reversed
-𒌑,U+12311,U2
-𒌒,U+12312,UB
-𒌓,U+12313,UD
-𒌔,U+12314,UD KUŠU2
-𒌕,U+12315,UD x BAD
-𒌖,U+12316,UD x MI
-𒌗,U+12317,UD x U + U + U
-𒌘,U+12318,UD x U + U + U gunû
-𒌙,U+12319,UD gunû
-𒌚,U+1231A,UD šešig
-𒌛,U+1231B,UD šešig x BAD
-𒌜,U+1231C,UDUG
-𒌝,U+1231D,UM
-𒌞,U+1231E,UM x LAGAB
-𒌟,U+1231F,UM x ME + DA
-𒌠,U+12320,UM x ŠA3
-𒌡,U+12321,UM x U
-𒌢,U+12322,UMBIN
-𒌣,U+12323,UMUM
-𒌤,U+12324,UMUM x KASKAL
-𒌥,U+12325,UMUM x PA
-𒌦,U+12326,UN
-𒌧,U+12327,UN gunû
-𒌨,U+12328,UR
-𒌩,U+12329,UR crossing UR
-𒌪,U+1232A,UR šešig
-𒌫,U+1232B,UR2
-𒌬,U+1232C,UR2 x A + ḪA
-𒌭,U+1232D,UR2 x A + NA
-𒌮,U+1232E,UR2 x AL
-𒌯,U+1232F,UR2 x ḪA
-𒌰,U+12330,UR2 x NUN
-𒌱,U+12331,UR2 x U2
-𒌲,U+12332,UR2 x U2 + AŠ
-𒌳,U+12333,UR2 x U2 + BI
-𒌴,U+12334,UR4
-𒌵,U+12335,URI
-𒌶,U+12336,URI3
-𒌷,U+12337,URU
-𒌸,U+12338,URU x A
-𒌹,U+12339,URU x AŠGAB
-𒌺,U+1233A,URU x BAR
-𒌻,U+1233B,URU x DUN
-𒌼,U+1233C,URU x GA
-𒌽,U+1233D,URU x GAL
-𒌾,U+1233E,URU x GAN2 tenû
-𒌿,U+1233F,URU x GAR
-𒍀,U+12340,URU x GU
-𒍁,U+12341,URU x ḪA
-𒍂,U+12342,URU x IGI
-𒍃,U+12343,URU x IM
-𒍄,U+12344,URU x IŠ
-𒍅,U+12345,URU x KI
-𒍆,U+12346,URU x LUM
-𒍇,U+12347,URU x MIN
-𒍈,U+12348,URU x PA
-𒍉,U+12349,URU x ŠE
-𒍊,U+1234A,URU x SIG4
-𒍋,U+1234B,URU x TU
-𒍌,U+1234C,URU x U + GUD
-𒍍,U+1234D,URU x UD
-𒍎,U+1234E,URU x URUDA
-𒍏,U+1234F,URUDA
-𒍐,U+12350,URUDA x U
-𒍑,U+12351,UŠ
-𒍒,U+12352,UŠ x A
-𒍓,U+12353,UŠ x KU
-𒍔,U+12354,UŠ x KUR
-𒍕,U+12355,UŠ x TAK4
-𒍖,U+12356,UŠX
-𒍗,U+12357,UŠ2
-𒍘,U+12358,UŠUMX
-𒍙,U+12359,UTUKI
-𒍚,U+1235A,UZ3
-𒍛,U+1235B,UZ3 x KASKAL
-𒍜,U+1235C,UZU
-𒍝,U+1235D,ZA
-𒍞,U+1235E,ZA tenû
-𒍟,U+1235F,ZA squared x KUR
-𒍠,U+12360,ZAG
-𒍡,U+12361,ZAMX
-𒍢,U+12362,ZE2
-𒍣,U+12363,ZI
-𒍤,U+12364,ZI / ZI
-𒍥,U+12365,ZI3
-𒍦,U+12366,ZIB
-𒍧,U+12367,ZIB KABA tenû
-𒍨,U+12368,ZIG
-𒍩,U+12369,ZIZ2
-𒍪,U+1236A,ZU
-𒍫,U+1236B,ZU5
-𒍬,U+1236C,ZU5 x A
-𒍭,U+1236D,ZUBUR
-𒍮,U+1236E,ZUM
-𒍯,U+1236F,KAP ELAMITE
-𒍰,U+12370,AB x NUN
-𒍱,U+12371,AB2 x A
-𒍲,U+12372,AMAR x KUG
-𒍳,U+12373,DAG KISIM5 x U2 + MAŠ
-𒍴,U+12374,DAG3
-𒍵,U+12375,DIŠ + ŠU
-𒍶,U+12376,DUB x ŠE
-𒍷,U+12377,EZEN x GUD
-𒍸,U+12378,EZEN x ŠE
-𒍹,U+12379,GA2 x AN + KAK + A
-𒍺,U+1237A,GA2 x AŠ2
-𒍻,U+1237B,GE22
-𒍼,U+1237C,GIG
-𒍽,U+1237D,ḪUŠ
-𒍾,U+1237E,KA x ANŠE
-𒍿,U+1237F,KA x AŠ3
-𒎀,U+12380,KA x GIŠ
-𒎁,U+12381,KA x GUD
-𒎂,U+12382,KA x ḪI x AŠ2
-𒎃,U+12383,KA x LUM
-𒎄,U+12384,KA x PA
-𒎅,U+12385,KA x ŠUL
-𒎆,U+12386,KA x TU
-𒎇,U+12387,KA x UR2
-𒎈,U+12388,LAGAB x GI
-𒎉,U+12389,LU2 ŠEŠIG x BAD
-𒎊,U+1238A,LU2 x EŠ2 + LAL
-𒎋,U+1238B,LU2 x ŠU
-𒎌,U+1238C,MEŠ
-𒎍,U+1238D,MUŠ3 x ZA
-𒎎,U+1238E,NA4
-𒎏,U+1238F,NIN
-𒎐,U+12390,NIN9
-𒎑,U+12391,NINDA2 x BAL
-𒎒,U+12392,NINDA2 x GI
-𒎓,U+12393,NU11 rotated 90°
-𒎔,U+12394,PEŠ2*
-𒎕,U+12395,PIR2
-𒎖,U+12396,SAG x IGI gunû
-𒎗,U+12397,TI2
-𒎘,U+12398,UM x ME
-𒎙,U+12399,U U
+Sign,Unicode,Transliteration,Keystrokes
+𒀀,U+12000,A,a
+𒀁,U+12001,A x A,a.a
+𒀂,U+12002,A x BAD,a.bad
+𒀃,U+12003,A x GAN2 tenû,a.gan2
+𒀄,U+12004,A x ḪA,a.ha
+𒀅,U+12005,A x IGI,a.igi
+𒀆,U+12006,A x LAGAR gunû,a.lagar
+𒀇,U+12007,A x MUŠ,a.mush
+𒀈,U+12008,A x SAG,a.sag
+𒀉,U+12009,A2,a2
+𒀊,U+1200A,AB,ab
+𒀕,U+12015,AB gunû,ab
+𒀋,U+1200B,AB x AŠ2,ab.ash2
+𒀌,U+1200C,AB x DUN3 gunû,ab.dun3
+𒀍,U+1200D,AB x GAL,ab.gal
+𒀎,U+1200E,AB x GAN2 tenû,ab.gan2
+𒀏,U+1200F,AB x ḪA,ab.ha
+𒀐,U+12010,AB x IGI gunû,ab.igi
+𒀑,U+12011,AB x IMIN,ab.imin
+𒀒,U+12012,AB x LAGAB,ab.lagab
+𒍰,U+12370,AB x NUN,ab.nun
+𒀓,U+12013,AB x ŠEŠ,ab.shesh
+𒀔,U+12014,AB x U + U + U,ab.u.u.u
+𒀖,U+12016,AB2,ab2
+𒍱,U+12371,AB2 x A,ab2.a
+𒀗,U+12017,AB2 x BALAG,ab2.balag
+𒀘,U+12018,AB2 x GAN2 tenû,ab2.gan2
+𒀙,U+12019,AB2 x ME + EN,ab2.me.en
+𒀚,U+1201A,AB2 x ŠA3,ab2.sha3
+𒀛,U+1201B,AB2 x TAK4,ab2.tak4
+𒀜,U+1201C,AD,ad
+𒀝,U+1201D,AK,ak
+𒀞,U+1201E,AK x ERIN2,ak.erin2
+𒀟,U+1201F,AK x ŠITA + GIŠ,ak.shita.gish
+𒀠,U+12020,AL,al
+𒀡,U+12021,AL x AL,al.al
+𒀢,U+12022,AL x DIM2,al.dim2
+𒀣,U+12023,AL x GIŠ,al.gish
+𒀤,U+12024,AL x ḪA,al.ha
+𒀥,U+12025,AL x KAD3,al.kad3
+𒀦,U+12026,AL x KI,al.ki
+𒀧,U+12027,AL x ŠE,al.she
+𒀨,U+12028,AL x UŠ,al.ush
+𒀩,U+12029,ALAN,alan
+𒀪,U+1202A,aleph,aleph
+𒀫,U+1202B,AMAR,amar
+𒍲,U+12372,AMAR x KUG,amar.kug
+𒀬,U+1202C,AMAR x ŠE,amar.she
+𒀭,U+1202D,AN,an
+𒀯,U+1202F,AN three times,an
+𒀮,U+1202E,AN / AN,an.an
+𒀱,U+12031,AN + NAGA squared,an.naga
+𒀰,U+12030,AN + NAGA opposing AN + NAGA,an.naga.an.naga
+𒀲,U+12032,ANŠE,anshe
+𒀳,U+12033,APIN,apin
+𒀴,U+12034,ARAD,arad
+𒀵,U+12035,ARAD x KUR,arad.kur
+𒀶,U+12036,ARKAB,arkab
+𒀷,U+12037,ASAL2,asal2
+𒀸,U+12038,AŠ,ash
+𒀼,U+1203C,AŠ / AŠ / AŠ,ash.ash.ash
+𒀽,U+1203D,AŠ / AŠ / AŠ crossing AŠ / AŠ / AŠ,ash.ash.ash.ash.ash.ash
+𒀻,U+1203B,AŠ / AŠ TUG2 / TUG2 TUG2 / TUG2 PAP,ash.ash.tug2.tug2.tug2.tug2.pap
+𒀺,U+1203A,AŠ KABA tenû,ash.kaba
+𒀹,U+12039,AŠ ZIDA tenû,ash.zida
+𒀾,U+1203E,AŠ2,ash2
+𒀿,U+1203F,AŠGAB,ashgab
+𒁀,U+12040,BA,ba
+𒁁,U+12041,BAD,bad
+𒁂,U+12042,BAG3,bag3
+𒁃,U+12043,BAḪAR2,bahar2
+𒁄,U+12044,BAL,bal
+𒁅,U+12045,BAL / BAL,bal.bal
+𒁆,U+12046,BALAG,balag
+𒁇,U+12047,BAR,bar
+𒁈,U+12048,BARA2,bara2
+𒁉,U+12049,BI,bi
+𒁊,U+1204A,BI x A,bi.a
+𒁋,U+1204B,BI x GAR,bi.gar
+𒁌,U+1204C,BI x IGI gunû,bi.igi
+𒁍,U+1204D,BU,bu
+𒁐,U+12050,BU crossing BU,bu.bu
+𒁎,U+1204E,BU / BU AB,bu.bu.ab
+𒁏,U+1204F,BU / BU UN,bu.bu.un
+𒁑,U+12051,BULUG,bulug
+𒁒,U+12052,BULUG / BULUG,bulug.bulug
+𒁓,U+12053,BUR,bur
+𒁔,U+12054,BUR2,bur2
+𒁕,U+12055,DA,da
+𒁖,U+12056,DAG,dag
+𒁗,U+12057,DAG KISIM5 x A + MAŠ,dag.kisim5.a.mash
+𒁘,U+12058,DAG KISIM5 x AMAR,dag.kisim5.amar
+𒁙,U+12059,DAG KISIM5 x BALAG,dag.kisim5.balag
+𒁚,U+1205A,DAG KISIM5 x BI,dag.kisim5.bi
+𒁛,U+1205B,DAG KISIM5 x GA,dag.kisim5.ga
+𒁜,U+1205C,DAG KISIM5 x GA + MAŠ,dag.kisim5.ga.mash
+𒁝,U+1205D,DAG KISIM5 x GI,dag.kisim5.gi
+𒁞,U+1205E,DAG KISIM5 x GIR2,dag.kisim5.gir2
+𒁟,U+1205F,DAG KISIM5 x GUD,dag.kisim5.gud
+𒁠,U+12060,DAG KISIM5 x ḪA,dag.kisim5.ha
+𒁡,U+12061,DAG KISIM5 x IR,dag.kisim5.ir
+𒁢,U+12062,DAG KISIM5 x IR + LU,dag.kisim5.ir.lu
+𒁣,U+12063,DAG KISIM5 x KAK,dag.kisim5.kak
+𒁤,U+12064,DAG KISIM5 x LA,dag.kisim5.la
+𒁥,U+12065,DAG KISIM5 x LU,dag.kisim5.lu
+𒁦,U+12066,DAG KISIM5 x LU + MAŠ2,dag.kisim5.lu.mash2
+𒁧,U+12067,DAG KISIM5 x LUM,dag.kisim5.lum
+𒁨,U+12068,DAG KISIM5 x NE,dag.kisim5.ne
+𒁩,U+12069,DAG KISIM5 x PAP + PAP,dag.kisim5.pap.pap
+𒁪,U+1206A,DAG KISIM5 x SI,dag.kisim5.si
+𒁫,U+1206B,DAG KISIM5 x TAK4,dag.kisim5.tak4
+𒁬,U+1206C,DAG KISIM5 x U2 + GIR2,dag.kisim5.u2.gir2
+𒍳,U+12373,DAG KISIM5 x U2 + MAŠ,dag.kisim5.u2.mash
+𒁭,U+1206D,DAG KISIM5 x UŠ,dag.kisim5.ush
+𒍴,U+12374,DAG3,dag3
+𒁮,U+1206E,DAM,dam
+𒁯,U+1206F,DAR,dar
+𒁰,U+12070,DARA3,dara3
+𒁱,U+12071,DARA4,dara4
+𒁲,U+12072,DI,di
+𒁳,U+12073,DIB,dib
+𒁴,U+12074,DIM,dim
+𒁵,U+12075,DIM x ŠE,dim.she
+𒁶,U+12076,DIM2,dim2
+𒁷,U+12077,DIN,din
+𒁸,U+12078,DIN KASKAL U gunû DIŠ,din.kaskal.u.dish
+𒁹,U+12079,DIŠ,dish
+𒍵,U+12375,DIŠ + ŠU,dish.shu
+𒁼,U+1207C,DU gunû,du
+𒁽,U+1207D,DU šešig,du
+𒁺,U+1207A,DU,du
+𒁻,U+1207B,DU / DU,du.du
+𒁾,U+1207E,DUB,dub
+𒁿,U+1207F,DUB x EŠ2,dub.esh2
+𒍶,U+12376,DUB x ŠE,dub.she
+𒂀,U+12080,DUB2,dub2
+𒂁,U+12081,DUG,dug
+𒂂,U+12082,DUGUD,dugud
+𒂃,U+12083,DUḪ,duh
+𒂄,U+12084,DUN,dun
+𒂅,U+12085,DUN3,dun3
+𒂇,U+12087,DUN3 gunû gunû,dun3
+𒂆,U+12086,DUN3 gunû,dun3
+𒂈,U+12088,DUN4,dun4
+𒂉,U+12089,DUR2,dur2
+𒂊,U+1208A,E,e
+𒂌,U+1208C,E / E NUN / NUN,e.e.nun.nun
+𒂋,U+1208B,E x PAP,e.pap
+𒂍,U+1208D,E2,e2
+𒂎,U+1208E,E2 x A + ḪA + DA,e2.a.ha.da
+𒂏,U+1208F,E2 x GAR,e2.gar
+𒂐,U+12090,E2 x MI,e2.mi
+𒂑,U+12091,E2 x SAL,e2.sal
+𒂒,U+12092,E2 x ŠE,e2.she
+𒂓,U+12093,E2 x U,e2.u
+𒂔,U+12094,EDIN,edin
+𒂕,U+12095,EGIR,egir
+𒂖,U+12096,EL,el
+𒂗,U+12097,EN,en
+𒂝,U+1209D,EN squared,en
+𒂜,U+1209C,EN opposing EN,en.en
+𒂛,U+1209B,EN crossing EN,en.en
+𒂙,U+12099,EN x GAN2 tenû,en.gan2
+𒂘,U+12098,EN x GAN2,en.gan2
+𒂚,U+1209A,EN x ME,en.me
+𒂞,U+1209E,EREN,eren
+𒂟,U+1209F,ERIN2,erin2
+𒂠,U+120A0,EŠ2,esh2
+𒂡,U+120A1,EZEN,ezen
+𒂢,U+120A2,EZEN x A,ezen.a
+𒂣,U+120A3,EZEN x A + LAL,ezen.a.lal
+𒂤,U+120A4,EZEN x A + LAL x LAL,ezen.a.lal.lal
+𒂥,U+120A5,EZEN x AN,ezen.an
+𒂦,U+120A6,EZEN x BAD,ezen.bad
+𒂧,U+120A7,EZEN x DUN3 gunû,ezen.dun3
+𒂨,U+120A8,EZEN x DUN3 gunû gunû,ezen.dun3
+𒍷,U+12377,EZEN x GUD,ezen.gud
+𒂪,U+120AA,EZEN x ḪA gunû,ezen.ha
+𒂩,U+120A9,EZEN x ḪA,ezen.ha
+𒂫,U+120AB,EZEN x IGI gunû,ezen.igi
+𒂬,U+120AC,EZEN x KASKAL,ezen.kaskal
+𒂭,U+120AD,EZEN x KASKAL squared,ezen.kaskal
+𒂮,U+120AE,EZEN x KU3,ezen.ku3
+𒂯,U+120AF,EZEN x LA,ezen.la
+𒂰,U+120B0,EZEN x LAL x LAL,ezen.lal.lal
+𒂱,U+120B1,EZEN x LI,ezen.li
+𒂲,U+120B2,EZEN x LU,ezen.lu
+𒍸,U+12378,EZEN x ŠE,ezen.she
+𒂳,U+120B3,EZEN x U2,ezen.u2
+𒂴,U+120B4,EZEN x UD,ezen.ud
+𒂵,U+120B5,GA,ga
+𒂶,U+120B6,GA gunû,ga
+𒂷,U+120B7,GA2,ga2
+𒂸,U+120B8,GA2 x A + DA + ḪA,ga2.a.da.ha
+𒂹,U+120B9,GA2 x A + ḪA,ga2.a.ha
+𒂺,U+120BA,GA2 x A + IGI,ga2.a.igi
+𒂻,U+120BB,GA2 x AB2 tenû + TAB,ga2.ab2.tab
+𒂼,U+120BC,GA2 x AN,ga2.an
+𒍹,U+12379,GA2 x AN + KAK + A,ga2.an.kak.a
+𒂽,U+120BD,GA2 x AŠ,ga2.ash
+𒍺,U+1237A,GA2 x AŠ2,ga2.ash2
+𒂾,U+120BE,GA2 x AŠ2 + GAL,ga2.ash2.gal
+𒂿,U+120BF,GA2 x BAD,ga2.bad
+𒃀,U+120C0,GA2 x BAR + RA,ga2.bar.ra
+𒃁,U+120C1,GA2 x BUR,ga2.bur
+𒃂,U+120C2,GA2 x BUR + RA,ga2.bur.ra
+𒃃,U+120C3,GA2 x DA,ga2.da
+𒃄,U+120C4,GA2 x DI,ga2.di
+𒃅,U+120C5,GA2 x DIM x ŠE,ga2.dim.she
+𒃆,U+120C6,GA2 x DUB,ga2.dub
+𒃇,U+120C7,GA2 x EL,ga2.el
+𒃈,U+120C8,GA2 x EL + LA,ga2.el.la
+𒃉,U+120C9,GA2 x EN,ga2.en
+𒃊,U+120CA,GA2 x EN x GAN2 tenû,ga2.en.gan2
+𒃭,U+120ED,GA2 / GA2,ga2.ga2
+𒃋,U+120CB,GA2 x GAN2 tenû,ga2.gan2
+𒃌,U+120CC,GA2 x GAR,ga2.gar
+𒃍,U+120CD,GA2 x GI,ga2.gi
+𒃎,U+120CE,GA2 x GI4,ga2.gi4
+𒃏,U+120CF,GA2 x GI4 + A,ga2.gi4.a
+𒃐,U+120D0,GA2 x GIR2 + SU,ga2.gir2.su
+𒃑,U+120D1,GA2 x ḪA + LU + EŠ2,ga2.ha.lu.esh2
+𒃒,U+120D2,GA2 x ḪAL,ga2.hal
+𒃓,U+120D3,GA2 x ḪAL + LA,ga2.hal.la
+𒃔,U+120D4,GA2 x ḪI + LI,ga2.hi.li
+𒃕,U+120D5,GA2 x ḪUB2,ga2.hub2
+𒃖,U+120D6,GA2 x IGI gunû,ga2.igi
+𒃗,U+120D7,GA2 x IŠ + ḪU + AŠ,ga2.ish.hu.ash
+𒃘,U+120D8,GA2 x KAK,ga2.kak
+𒃙,U+120D9,GA2 x KASKAL,ga2.kaskal
+𒃚,U+120DA,GA2 x KID,ga2.kid
+𒃛,U+120DB,GA2 x KID + LAL,ga2.kid.lal
+𒃜,U+120DC,GA2 x KU3 + AN,ga2.ku3.an
+𒃝,U+120DD,GA2 x LA,ga2.la
+𒃞,U+120DE,GA2 x ME + EN,ga2.me.en
+𒃟,U+120DF,GA2 x MI,ga2.mi
+𒃠,U+120E0,GA2 x NUN,ga2.nun
+𒃡,U+120E1,GA2 x NUN / NUN,ga2.nun.nun
+𒃢,U+120E2,GA2 x PA,ga2.pa
+𒃣,U+120E3,GA2 x SAL,ga2.sal
+𒃤,U+120E4,GA2 x SAR,ga2.sar
+𒃥,U+120E5,GA2 x ŠE,ga2.she
+𒃦,U+120E6,GA2 x ŠE + TUR,ga2.she.tur
+𒃧,U+120E7,GA2 x ŠID,ga2.shid
+𒃨,U+120E8,GA2 x SUM,ga2.sum
+𒃩,U+120E9,GA2 x TAK4,ga2.tak4
+𒃪,U+120EA,GA2 x U,ga2.u
+𒃫,U+120EB,GA2 x UD,ga2.ud
+𒃬,U+120EC,GA2 x UD + DU,ga2.ud.du
+𒃮,U+120EE,GABA,gaba
+𒃯,U+120EF,GABA crossing GABA,gaba.gaba
+𒃰,U+120F0,GAD,gad
+𒃱,U+120F1,GAD / GAD GAR / GAR,gad.gad.gar.gar
+𒃲,U+120F2,GAL,gal
+𒃳,U+120F3,GAL GAD / GAD GAR / GAR,gal.gad.gad.gar.gar
+𒃴,U+120F4,GALAM,galam
+𒃵,U+120F5,GAM,gam
+𒃶,U+120F6,GAN,gan
+𒃷,U+120F7,GAN2,gan2
+𒃸,U+120F8,GAN2 tenû,gan2
+𒃹,U+120F9,GAN2 / GAN2,gan2.gan2
+𒃺,U+120FA,GAN2 crossing GAN2,gan2.gan2
+𒃻,U+120FB,GAR,gar
+𒃼,U+120FC,GAR3,gar3
+𒃽,U+120FD,GAŠAN,gashan
+𒍻,U+1237B,GE22,ge22
+𒃾,U+120FE,GEŠTIN,geshtin
+𒃿,U+120FF,GEŠTIN x KUR,geshtin.kur
+𒄀,U+12100,GI,gi
+𒄁,U+12101,GI x E,gi.e
+𒄃,U+12103,GI crossing GI,gi.gi
+𒄂,U+12102,GI x U,gi.u
+𒄄,U+12104,GI4,gi4
+𒄆,U+12106,GI4 crossing GI4,gi4.gi4
+𒄅,U+12105,GI4 / GI4,gi4.gi4
+𒄇,U+12107,GIDIM,gidim
+𒍼,U+1237C,GIG,gig
+𒄈,U+12108,GIR2,gir2
+𒄉,U+12109,GIR2 gunû,gir2
+𒄊,U+1210A,GIR3,gir3
+𒄋,U+1210B,GIR3 x A + IGI,gir3.a.igi
+𒄌,U+1210C,GIR3 x GAN2 tenû,gir3.gan2
+𒄍,U+1210D,GIR3 x IGI,gir3.igi
+𒄎,U+1210E,GIR3 x LU + IGI,gir3.lu.igi
+𒄏,U+1210F,GIR3 x PA,gir3.pa
+𒄐,U+12110,GISAL,gisal
+𒄑,U+12111,GIŠ,gish
+𒄕,U+12115,GIŠ tenû,gish
+𒄓,U+12113,GIŠ x BAD,gish.bad
+𒄒,U+12112,GIŠ crossing GIŠ,gish.gish
+𒄔,U+12114,GIŠ x TAK4,gish.tak4
+𒄖,U+12116,GU,gu
+𒄗,U+12117,GU crossing GU,gu.gu
+𒄝,U+1211D,GU2 gunû,gu2
+𒄘,U+12118,GU2,gu2
+𒄙,U+12119,GU2 x KAK,gu2.kak
+𒄚,U+1211A,GU2 x KAK x IGI gunû,gu2.kak.igi
+𒄛,U+1211B,GU2 x NUN,gu2.nun
+𒄜,U+1211C,GU2 x SAL + TUG2,gu2.sal.tug2
+𒄞,U+1211E,GUD,gud
+𒄟,U+1211F,GUD x A + KUR,gud.a.kur
+𒄡,U+12121,GUD / GUD LUGAL,gud.gud.lugal
+𒄠,U+12120,GUD x KUR,gud.kur
+𒄢,U+12122,GUL,gul
+𒄣,U+12123,GUM,gum
+𒄤,U+12124,GUM x ŠE,gum.she
+𒄥,U+12125,GUR,gur
+𒄦,U+12126,GUR7,gur7
+𒄧,U+12127,GURUN,gurun
+𒄨,U+12128,GURUŠ,gurush
+𒄩,U+12129,ḪA,ha
+𒄪,U+1212A,ḪA tenû,ha
+𒄫,U+1212B,ḪA gunû,ha
+𒄬,U+1212C,ḪAL,hal
+𒄭,U+1212D,ḪI,hi
+𒄮,U+1212E,ḪI x AŠ,hi.ash
+𒄯,U+1212F,ḪI x AŠ2,hi.ash2
+𒄰,U+12130,ḪI x BAD,hi.bad
+𒄱,U+12131,ḪI x DIŠ,hi.dish
+𒄲,U+12132,ḪI x GAD,hi.gad
+𒄳,U+12133,ḪI x KIN,hi.kin
+𒄴,U+12134,ḪI x NUN,hi.nun
+𒄵,U+12135,ḪI x ŠE,hi.she
+𒄶,U+12136,ḪI x U,hi.u
+𒄷,U+12137,ḪU,hu
+𒄸,U+12138,ḪUB2,hub2
+𒄹,U+12139,ḪUB2 x AN,hub2.an
+𒄺,U+1213A,ḪUB2 x ḪAL,hub2.hal
+𒄻,U+1213B,ḪUB2 x KASKAL,hub2.kaskal
+𒄼,U+1213C,ḪUB2 x LIŠ,hub2.lish
+𒄽,U+1213D,ḪUB2 x UD,hub2.ud
+𒄾,U+1213E,ḪUL2,hul2
+𒍽,U+1237D,ḪUŠ,hush
+𒄿,U+1213F,I,i
+𒅀,U+12140,I A,i.a
+𒅁,U+12141,IB,ib
+𒅂,U+12142,IDIM,idim
+𒅄,U+12144,IDIM / IDIM squared,idim.idim
+𒅃,U+12143,IDIM / IDIM BUR,idim.idim.bur
+𒅅,U+12145,IG,ig
+𒅊,U+1214A,IGI gunû,igi
+𒅆,U+12146,IGI,igi
+𒅇,U+12147,IGI DIB,igi.dib
+𒅉,U+12149,IGI / IGI ŠIR / ŠIR UD / UD,igi.igi.shir.shir.ud.ud
+𒅈,U+12148,IGI RI,igi.ri
+𒅋,U+1214B,IL,il
+𒅌,U+1214C,IL x GAN2 tenû,il.gan2
+𒅍,U+1214D,IL2,il2
+𒅒,U+12152,IM squared,im
+𒅎,U+1214E,IM,im
+𒅐,U+12150,IM crossing IM,im.im
+𒅑,U+12151,IM opposing IM,im.im
+𒅏,U+1214F,IM x TAK4,im.tak4
+𒅓,U+12153,IMIN,imin
+𒅔,U+12154,IN,in
+𒅕,U+12155,IR,ir
+𒅖,U+12156,IŠ,ish
+𒅗,U+12157,KA,ka
+𒅘,U+12158,KA x A,ka.a
+𒅙,U+12159,KA x AD,ka.ad
+𒅚,U+1215A,KA x AD + KU3,ka.ad.ku3
+𒍾,U+1237E,KA x ANŠE,ka.anshe
+𒅛,U+1215B,KA x AŠ2,ka.ash2
+𒍿,U+1237F,KA x AŠ3,ka.ash3
+𒅜,U+1215C,KA x BAD,ka.bad
+𒅝,U+1215D,KA x BALAG,ka.balag
+𒅞,U+1215E,KA x BAR,ka.bar
+𒅟,U+1215F,KA x BI,ka.bi
+𒅠,U+12160,KA x ERIN2,ka.erin2
+𒅡,U+12161,KA x EŠ2,ka.esh2
+𒅢,U+12162,KA x GA,ka.ga
+𒅣,U+12163,KA x GAL,ka.gal
+𒅤,U+12164,KA x GAN2 tenû,ka.gan2
+𒅥,U+12165,KA x GAR,ka.gar
+𒅦,U+12166,KA x GAR + ŠA3 + A,ka.gar.sha3.a
+𒅧,U+12167,KA x GI,ka.gi
+𒅨,U+12168,KA x GIR2,ka.gir2
+𒎀,U+12380,KA x GIŠ,ka.gish
+𒅪,U+1216A,KA x GIŠ crossing GIŠ,ka.gish.gish
+𒅩,U+12169,KA x GIŠ + SAR,ka.gish.sar
+𒅫,U+1216B,KA x GU,ka.gu
+𒎁,U+12381,KA x GUD,ka.gud
+𒅬,U+1216C,KA x GUR7,ka.gur7
+𒎂,U+12382,KA x ḪI x AŠ2,ka.hi.ash2
+𒅭,U+1216D,KA x IGI,ka.igi
+𒅮,U+1216E,KA x IM,ka.im
+𒅯,U+1216F,KA x KAK,ka.kak
+𒅰,U+12170,KA x KI,ka.ki
+𒅱,U+12171,KA x KID,ka.kid
+𒅲,U+12172,KA x LI,ka.li
+𒅳,U+12173,KA x LU,ka.lu
+𒎃,U+12383,KA x LUM,ka.lum
+𒅴,U+12174,KA x ME,ka.me
+𒅵,U+12175,KA x ME + DU,ka.me.du
+𒅶,U+12176,KA x ME + GI,ka.me.gi
+𒅷,U+12177,KA x ME + TE,ka.me.te
+𒅸,U+12178,KA x MI,ka.mi
+𒅹,U+12179,KA x MI + NUNUZ,ka.mi.nunuz
+𒅺,U+1217A,KA x NE,ka.ne
+𒅻,U+1217B,KA x NUN,ka.nun
+𒎄,U+12384,KA x PA,ka.pa
+𒅼,U+1217C,KA x PI,ka.pi
+𒅽,U+1217D,KA x RU,ka.ru
+𒅾,U+1217E,KA x SA,ka.sa
+𒅿,U+1217F,KA x SAR,ka.sar
+𒆀,U+12180,KA x ŠA,ka.sha
+𒆁,U+12181,KA x ŠE,ka.she
+𒆂,U+12182,KA x ŠID,ka.shid
+𒆃,U+12183,KA x ŠU,ka.shu
+𒎅,U+12385,KA x ŠUL,ka.shul
+𒆄,U+12184,KA x SIG,ka.sig
+𒆅,U+12185,KA x SUḪUR,ka.suhur
+𒆆,U+12186,KA x TAR,ka.tar
+𒎆,U+12386,KA x TU,ka.tu
+𒆇,U+12187,KA x U,ka.u
+𒆈,U+12188,KA x U2,ka.u2
+𒆉,U+12189,KA x UD,ka.ud
+𒆊,U+1218A,KA x UMUM x PA,ka.umum.pa
+𒎇,U+12387,KA x UR2,ka.ur2
+𒆋,U+1218B,KA x UŠ,ka.ush
+𒆌,U+1218C,KA x ZI,ka.zi
+𒆍,U+1218D,KA2,ka2
+𒆎,U+1218E,KA2 crossing KA2,ka2.ka2
+𒆏,U+1218F,KAB,kab
+𒆐,U+12190,KAD2,kad2
+𒆑,U+12191,KAD3,kad3
+𒆒,U+12192,KAD4,kad4
+𒆓,U+12193,KAD5,kad5
+𒆔,U+12194,KAD5 / KAD5,kad5.kad5
+𒆕,U+12195,KAK,kak
+𒆖,U+12196,KAK x IGI gunû,kak.igi
+𒆗,U+12197,KAL,kal
+𒆘,U+12198,KAL x BAD,kal.bad
+𒆙,U+12199,KAL crossing KAL,kal.kal
+𒆚,U+1219A,KAM2,kam2
+𒆛,U+1219B,KAM4,kam4
+𒍯,U+1236F,KAP ELAMITE,kap.elamite
+𒆜,U+1219C,KASKAL,kaskal
+𒆞,U+1219E,KASKAL / KASKAL LAGAB x U / LAGAB x U,kaskal.kaskal.lagab.u.lagab.u
+𒆝,U+1219D,KASKAL LAGAB x U / LAGAB x U,kaskal.lagab.u.lagab.u
+𒆟,U+1219F,KEŠ2,kesh2
+𒆠,U+121A0,KI,ki
+𒆡,U+121A1,KI x BAD,ki.bad
+𒆢,U+121A2,KI x U,ki.u
+𒆣,U+121A3,KI x UD,ki.ud
+𒆤,U+121A4,KID,kid
+𒆥,U+121A5,KIN,kin
+𒆦,U+121A6,KISAL,kisal
+𒆧,U+121A7,KIŠ,kish
+𒆨,U+121A8,KISIM5,kisim5
+𒆩,U+121A9,KISIM5 / KISIM5,kisim5.kisim5
+𒆪,U+121AA,KU,ku
+𒆫,U+121AB,KU / ḪI x AŠ2 KU / ḪI x ÁŠ,ku.hi.ash2.ku.hi.ash
+𒆬,U+121AC,KU3,ku3
+𒆭,U+121AD,KU4,ku4
+𒆮,U+121AE,KU4 variant form,ku4
+𒆯,U+121AF,KU7,ku7
+𒆰,U+121B0,KUL,kul
+𒆱,U+121B1,KUL gunû,kul
+𒆲,U+121B2,KUN,kun
+𒆳,U+121B3,KUR,kur
+𒆴,U+121B4,KUR opposing KUR,kur.kur
+𒆵,U+121B5,KUŠU2,kushu2
+𒆶,U+121B6,KWU318,kwu318
+𒆷,U+121B7,LA,la
+𒇫,U+121EB,LAGAB squared,lagab
+𒆸,U+121B8,LAGAB,lagab
+𒆹,U+121B9,LAGAB x A,lagab.a
+𒆺,U+121BA,LAGAB x A + DA + ḪA,lagab.a.da.ha
+𒆻,U+121BB,LAGAB x A + GAR,lagab.a.gar
+𒆼,U+121BC,LAGAB x A + LAL,lagab.a.lal
+𒆽,U+121BD,LAGAB x AL,lagab.al
+𒆾,U+121BE,LAGAB x AN,lagab.an
+𒆿,U+121BF,LAGAB x AŠ ZIDA tenû,lagab.ash.zida
+𒇀,U+121C0,LAGAB x BAD,lagab.bad
+𒇁,U+121C1,LAGAB x BI,lagab.bi
+𒇂,U+121C2,LAGAB x DAR,lagab.dar
+𒇃,U+121C3,LAGAB x EN,lagab.en
+𒇄,U+121C4,LAGAB x GA,lagab.ga
+𒇅,U+121C5,LAGAB x GAR,lagab.gar
+𒎈,U+12388,LAGAB x GI,lagab.gi
+𒇆,U+121C6,LAGAB x GUD,lagab.gud
+𒇇,U+121C7,LAGAB x GUD + GUD,lagab.gud.gud
+𒇈,U+121C8,LAGAB x ḪA,lagab.ha
+𒇉,U+121C9,LAGAB x ḪAL,lagab.hal
+𒇊,U+121CA,LAGAB x ḪI x NUN,lagab.hi.nun
+𒇋,U+121CB,LAGAB x IGI gunû,lagab.igi
+𒇌,U+121CC,LAGAB x IM,lagab.im
+𒇍,U+121CD,LAGAB x IM + ḪA,lagab.im.ha
+𒇎,U+121CE,LAGAB x IM + LU,lagab.im.lu
+𒇏,U+121CF,LAGAB x KI,lagab.ki
+𒇐,U+121D0,LAGAB x KIN,lagab.kin
+𒇑,U+121D1,LAGAB x KU3,lagab.ku3
+𒇒,U+121D2,LAGAB x KUL,lagab.kul
+𒇓,U+121D3,LAGAB x KUL + ḪI + A,lagab.kul.hi.a
+𒇔,U+121D4,LAGAB x LAGAB,lagab.lagab
+𒇕,U+121D5,LAGAB x LIŠ,lagab.lish
+𒇖,U+121D6,LAGAB x LU,lagab.lu
+𒇗,U+121D7,LAGAB x LUL,lagab.lul
+𒇘,U+121D8,LAGAB x ME,lagab.me
+𒇙,U+121D9,LAGAB x ME + EN,lagab.me.en
+𒇚,U+121DA,LAGAB x MUŠ,lagab.mush
+𒇛,U+121DB,LAGAB x NE,lagab.ne
+𒇜,U+121DC,LAGAB x ŠE + SUM,lagab.she.sum
+𒇞,U+121DE,LAGAB x ŠITA + GIŠ tenû,lagab.shita.gish
+𒇝,U+121DD,LAGAB x ŠITA + GIŠ + ERIN2,lagab.shita.gish.erin2
+𒇟,U+121DF,LAGAB x ŠU2,lagab.shu2
+𒇠,U+121E0,LAGAB x ŠU2 + ŠU2,lagab.shu2.shu2
+𒇡,U+121E1,LAGAB x SUM,lagab.sum
+𒇢,U+121E2,LAGAB x TAG,lagab.tag
+𒇣,U+121E3,LAGAB x TAK4,lagab.tak4
+𒇤,U+121E4,LAGAB x TE + A + SU + NA,lagab.te.a.su.na
+𒇥,U+121E5,LAGAB x U,lagab.u
+𒇦,U+121E6,LAGAB x U + A,lagab.u.a
+𒇧,U+121E7,LAGAB x U + U + U,lagab.u.u.u
+𒇨,U+121E8,LAGAB x U2 + AŠ,lagab.u2.ash
+𒇩,U+121E9,LAGAB x UD,lagab.ud
+𒇪,U+121EA,LAGAB x UŠ,lagab.ush
+𒇯,U+121EF,LAGAR gunû,lagar
+𒇬,U+121EC,LAGAR,lagar
+𒇰,U+121F0,LAGAR gunû / LAGAR gunû ŠE,lagar.lagar.she
+𒇭,U+121ED,LAGAR x ŠE,lagar.she
+𒇮,U+121EE,LAGAR x ŠE + SUM,lagar.she.sum
+𒇱,U+121F1,LAḪŠU,lahshu
+𒇲,U+121F2,LAL,lal
+𒇳,U+121F3,LAL x LAL,lal.lal
+𒇴,U+121F4,LAM,lam
+𒇵,U+121F5,LAM x KUR,lam.kur
+𒇶,U+121F6,LAM x KUR + RU,lam.kur.ru
+𒇷,U+121F7,LI,li
+𒇸,U+121F8,LIL,lil
+𒇹,U+121F9,LIMMU2,limmu2
+𒇺,U+121FA,LIŠ,lish
+𒇻,U+121FB,LU,lu
+𒇼,U+121FC,LU x BAD,lu.bad
+𒈑,U+12211,LU2 tenû,lu2
+𒈔,U+12214,LU2 squared,lu2
+𒇽,U+121FD,LU2,lu2
+𒈕,U+12215,LU2 šešig,lu2
+𒇾,U+121FE,LU2 x AL,lu2.al
+𒇿,U+121FF,LU2 x BAD,lu2.bad
+𒈀,U+12200,LU2 x EŠ2,lu2.esh2
+𒈁,U+12201,LU2 x EŠ2 tenû,lu2.esh2
+𒎊,U+1238A,LU2 x EŠ2 + LAL,lu2.esh2.lal
+𒈂,U+12202,LU2 x GAN2 tenû,lu2.gan2
+𒈃,U+12203,LU2 x ḪI x BAD,lu2.hi.bad
+𒈄,U+12204,LU2 x IM,lu2.im
+𒈅,U+12205,LU2 x KAD2,lu2.kad2
+𒈆,U+12206,LU2 x KAD3,lu2.kad3
+𒈇,U+12207,LU2 x KAD3 + AŠ,lu2.kad3.ash
+𒈈,U+12208,LU2 x KI,lu2.ki
+𒈉,U+12209,LU2 x LA + AŠ,lu2.la.ash
+𒈊,U+1220A,LU2 x LAGAB,lu2.lagab
+𒈒,U+12212,LU2 crossing LU2,lu2.lu2
+𒈓,U+12213,LU2 opposing LU2,lu2.lu2
+𒈋,U+1220B,LU2 x ME + EN,lu2.me.en
+𒈌,U+1220C,LU2 x NE,lu2.ne
+𒈍,U+1220D,LU2 x NU,lu2.nu
+𒎉,U+12389,LU2 ŠEŠIG x BAD,lu2.sheshig.bad
+𒎋,U+1238B,LU2 x ŠU,lu2.shu
+𒈎,U+1220E,LU2 x SI + AŠ,lu2.si.ash
+𒈏,U+1220F,LU2 x SIK2 + BU,lu2.sik2.bu
+𒈐,U+12210,LU2 x TUG2,lu2.tug2
+𒈖,U+12216,LU3,lu3
+𒈗,U+12217,LUGAL,lugal
+𒈚,U+1221A,LUGAL šešig,lugal
+𒈘,U+12218,LUGAL / LUGAL,lugal.lugal
+𒈙,U+12219,LUGAL opposing LUGAL,lugal.lugal
+𒈛,U+1221B,LUḪ,luh
+𒈜,U+1221C,LUL,lul
+𒈝,U+1221D,LUM,lum
+𒈞,U+1221E,LUM / LUM,lum.lum
+𒈟,U+1221F,LUM / LUM GAR / GAR,lum.lum.gar.gar
+𒈠,U+12220,MA,ma
+𒈢,U+12222,MA gunû,ma
+𒈡,U+12221,MA x TAK4,ma.tak4
+𒈣,U+12223,MA2,ma2
+𒈤,U+12224,MAḪ,mah
+𒈥,U+12225,MAR,mar
+𒈦,U+12226,MAŠ,mash
+𒈧,U+12227,MAŠ2,mash2
+𒈨,U+12228,ME,me
+𒈩,U+12229,MES,mes
+𒎌,U+1238C,MEŠ,mesh
+𒈪,U+1222A,MI,mi
+𒈫,U+1222B,MIN,min
+𒈬,U+1222C,MU,mu
+𒈭,U+1222D,MU / MU,mu.mu
+𒈯,U+1222F,MUG gunû,mug
+𒈮,U+1222E,MUG,mug
+𒈰,U+12230,MUNSUB,munsub
+𒈱,U+12231,MURGU2,murgu2
+𒈲,U+12232,MUŠ,mush
+𒈳,U+12233,MUŠ x A,mush.a
+𒈴,U+12234,MUŠ x KUR,mush.kur
+𒈸,U+12238,MUŠ crossing MUŠ,mush.mush
+𒈶,U+12236,MUŠ / MUŠ,mush.mush
+𒈷,U+12237,MUŠ / MUŠ x A + NA,mush.mush.a.na
+𒈵,U+12235,MUŠ x ZA,mush.za
+𒈽,U+1223D,MUŠ3 gunû,mush3
+𒈹,U+12239,MUŠ3,mush3
+𒈺,U+1223A,MUŠ3 x A,mush3.a
+𒈻,U+1223B,MUŠ3 x A + DI,mush3.a.di
+𒈼,U+1223C,MUŠ3 x DI,mush3.di
+𒎍,U+1238D,MUŠ3 x ZA,mush3.za
+𒈾,U+1223E,,na
+𒈿,U+1223F,NA2,na2
+𒎎,U+1238E,NA4,na4
+𒉁,U+12241,NAGA inverted,naga
+𒉀,U+12240,NAGA,naga
+𒉃,U+12243,NAGA opposing NAGA,naga.naga
+𒉂,U+12242,NAGA x ŠU tenû,naga.shu
+𒉄,U+12244,NAGAR,nagar
+𒉆,U+12246,NAM,nam
+𒉅,U+12245,NAM NUTILLU,nam.nutillu
+𒉇,U+12247,NAM2,nam2
+𒉈,U+12248,NE,ne
+𒉋,U+1224B,NE šešig,ne
+𒉉,U+12249,NE x A,ne.a
+𒉊,U+1224A,NE x UD,ne.ud
+𒉌,U+1224C,NI,ni
+𒉍,U+1224D,NI x E,ni.e
+𒉎,U+1224E,NI2,ni2
+𒉏,U+1224F,NIM,nim
+𒉐,U+12250,NIM x GAN2 tenû,nim.gan2
+𒉑,U+12251,NIM x GAR + GAN2 tenû,nim.gar.gan2
+𒎏,U+1238F,NIN,nin
+𒎐,U+12390,NIN9,nin9
+𒉒,U+12252,NINDA2,ninda2
+𒉓,U+12253,NINDA2 x AN,ninda2.an
+𒉔,U+12254,NINDA2 x AŠ,ninda2.ash
+𒉕,U+12255,NINDA2 x AŠ + AŠ,ninda2.ash.ash
+𒎑,U+12391,NINDA2 x BAL,ninda2.bal
+𒎒,U+12392,NINDA2 x GI,ninda2.gi
+𒉖,U+12256,NINDA2 x GUD,ninda2.gud
+𒉗,U+12257,NINDA2 x ME + GAN2 tenû,ninda2.me.gan2
+𒉘,U+12258,NINDA2 x NE,ninda2.ne
+𒉙,U+12259,NINDA2 x NUN,ninda2.nun
+𒉚,U+1225A,NINDA2 x ŠE,ninda2.she
+𒉛,U+1225B,NINDA2 x ŠE + A AN,ninda2.she.a.an
+𒉜,U+1225C,NINDA2 x ŠE + AŠ,ninda2.she.ash
+𒉝,U+1225D,NINDA2 x ŠE + AŠ + AŠ,ninda2.she.ash.ash
+𒉞,U+1225E,NINDA2 x U2 + AŠ,ninda2.u2.ash
+𒉟,U+1225F,NINDA2 x UŠ,ninda2.ush
+𒉠,U+12260,NISAG,nisag
+𒉡,U+12261,NU,nu
+𒎓,U+12393,NU11 rotated 90°,nu11
+𒉢,U+12262,NU11,nu11
+𒉣,U+12263,NUN,nun
+𒉩,U+12269,NUN tenû,nun
+𒉤,U+12264,NUN LAGAR x GAR,nun.lagar.gar
+𒉥,U+12265,NUN LAGAR x MAŠ,nun.lagar.mash
+𒉦,U+12266,NUN LAGAR x SAL,nun.lagar.sal
+𒉧,U+12267,NUN LAGAR x SAL / NUN LAGAR x SAL,nun.lagar.sal.nun.lagar.sal
+𒉨,U+12268,NUN LAGAR x UŠ,nun.lagar.ush
+𒉪,U+1226A,NUN / NUN,nun.nun
+𒉫,U+1226B,NUN crossing NUN,nun.nun
+𒉬,U+1226C,NUN crossing NUN LAGAR / LAGAR,nun.nun.lagar.lagar
+𒉭,U+1226D,NUNUZ,nunuz
+𒉮,U+1226E,NUNUZ AB2 x AŠGAB,nunuz.ab2.ashgab
+𒉯,U+1226F,NUNUZ AB2 x BI,nunuz.ab2.bi
+𒉰,U+12270,NUNUZ AB2 x DUG,nunuz.ab2.dug
+𒉱,U+12271,NUNUZ AB2 x GUD,nunuz.ab2.gud
+𒉲,U+12272,NUNUZ AB2 x IGI gunû,nunuz.ab2.igi
+𒉳,U+12273,NUNUZ AB2 x KAD3,nunuz.ab2.kad3
+𒉴,U+12274,NUNUZ AB2 x LA,nunuz.ab2.la
+𒉵,U+12275,NUNUZ AB2 x NE,nunuz.ab2.ne
+𒉶,U+12276,NUNUZ AB2 x SILA3,nunuz.ab2.sila3
+𒉷,U+12277,NUNUZ AB2 x U2,nunuz.ab2.u2
+𒉸,U+12278,NUNUZ KISIM5 x BI,nunuz.kisim5.bi
+𒉹,U+12279,NUNUZ KISIM5 x BI U,nunuz.kisim5.bi.u
+𒉺,U+1227A,PA,pa
+𒉻,U+1227B,PAD,pad
+𒉼,U+1227C,PAN,pan
+𒉽,U+1227D,PAP,pap
+𒉾,U+1227E,PEŠ2,pesh2
+𒎔,U+12394,PEŠ2*,pesh2
+𒉿,U+1227F,PI,pi
+𒊀,U+12280,PI x A,pi.a
+𒊁,U+12281,PI x AB,pi.ab
+𒊂,U+12282,PI x BI,pi.bi
+𒊃,U+12283,PI x BU,pi.bu
+𒊄,U+12284,PI x E,pi.e
+𒊅,U+12285,PI x I,pi.i
+𒊆,U+12286,PI x IB,pi.ib
+𒊉,U+12289,PI crossing PI,pi.pi
+𒊇,U+12287,PI x U,pi.u
+𒊈,U+12288,PI x U2,pi.u2
+𒎕,U+12395,PIR2,pir2
+𒊊,U+1228A,PIRIG,pirig
+𒊋,U+1228B,PIRIG x KAL,pirig.kal
+𒊎,U+1228E,PIRIG opposing PIRIG,pirig.pirig
+𒊌,U+1228C,PIRIG x UD,pirig.ud
+𒊍,U+1228D,PIRIG x ZA,pirig.za
+𒊏,U+1228F,RA,ra
+𒊐,U+12290,RAB,rab
+𒊑,U+12291,RI,ri
+𒊒,U+12292,RU,ru
+𒊓,U+12293,SA,sa
+𒊕,U+12295,SAG,sag
+𒊨,U+122A8,SAG gunû,sag
+𒊖,U+12296,SAG x A,sag.a
+𒊗,U+12297,SAG x DU,sag.du
+𒊘,U+12298,SAG x DUB,sag.dub
+𒊙,U+12299,SAG x ḪA,sag.ha
+𒎖,U+12396,SAG x IGI gunû,sag.igi
+𒊚,U+1229A,SAG x KAK,sag.kak
+𒊛,U+1229B,SAG x KUR,sag.kur
+𒊜,U+1229C,SAG x LUM,sag.lum
+𒊝,U+1229D,SAG x MI,sag.mi
+𒊞,U+1229E,SAG x NUN,sag.nun
+𒊔,U+12294,SAG NUTILLU,sag.nutillu
+𒊧,U+122A7,SAG / SAG,sag.sag
+𒊟,U+1229F,SAG x SAL,sag.sal
+𒊠,U+122A0,SAG x ŠID,sag.shid
+𒊡,U+122A1,SAG x TAB,sag.tab
+𒊢,U+122A2,SAG x U2,sag.u2
+𒊣,U+122A3,SAG x UB,sag.ub
+𒊤,U+122A4,SAG x UM,sag.um
+𒊥,U+122A5,SAG x UR,sag.ur
+𒊦,U+122A6,SAG x UŠ,sag.ush
+𒊩,U+122A9,SAL,sal
+𒊪,U+122AA,SAL LAGAB x AŠ2,sal.lagab.ash2
+𒊫,U+122AB,SANGA2,sanga2
+𒊬,U+122AC,SAR,sar
+𒊭,U+122AD,ŠA,sha
+𒊮,U+122AE,ŠA3,sha3
+𒊯,U+122AF,ŠA3 x A,sha3.a
+𒊰,U+122B0,ŠA3 x BAD,sha3.bad
+𒊱,U+122B1,ŠA3 x GIŠ,sha3.gish
+𒊲,U+122B2,ŠA3 x NE,sha3.ne
+𒊳,U+122B3,ŠA3 x ŠU2,sha3.shu2
+𒊴,U+122B4,ŠA3 x TUR,sha3.tur
+𒊵,U+122B5,ŠA3 x U,sha3.u
+𒊶,U+122B6,ŠA3 x U + A,sha3.u.a
+𒊷,U+122B7,ŠA6,sha6
+𒊸,U+122B8,ŠAB6,shab6
+𒊹,U+122B9,ŠAR2,shar2
+𒊺,U+122BA,ŠE,she
+𒊻,U+122BB,ŠE ḪU,she.hu
+𒊼,U+122BC,ŠE / ŠE GAD / GAD GAR / GAR,she.she.gad.gad.gar.gar
+𒊽,U+122BD,ŠE / ŠE TAB / TAB GAR / GAR,she.she.tab.tab.gar.gar
+𒊾,U+122BE,ŠEG9,sheg9
+𒊿,U+122BF,ŠEN,shen
+𒋀,U+122C0,ŠEŠ,shesh
+𒋁,U+122C1,ŠEŠ2,shesh2
+𒋂,U+122C2,ŠEŠLAM,sheshlam
+𒋃,U+122C3,ŠID,shid
+𒋄,U+122C4,ŠID x A,shid.a
+𒋅,U+122C5,ŠID x IM,shid.im
+𒋆,U+122C6,ŠIM,shim
+𒋇,U+122C7,ŠIM x A,shim.a
+𒋈,U+122C8,ŠIM x BAL,shim.bal
+𒋉,U+122C9,ŠIM x BULUG,shim.bulug
+𒋊,U+122CA,ŠIM x DIN,shim.din
+𒋋,U+122CB,ŠIM x GAR,shim.gar
+𒋍,U+122CD,ŠIM x IGI gunû,shim.igi
+𒋌,U+122CC,ŠIM x IGI,shim.igi
+𒋎,U+122CE,ŠIM x KUŠU2,shim.kushu2
+𒋏,U+122CF,ŠIM x LUL,shim.lul
+𒋐,U+122D0,ŠIM x MUG,shim.mug
+𒋑,U+122D1,ŠIM x SAL,shim.sal
+𒋒,U+122D2,ŠINIG,shinig
+𒋓,U+122D3,ŠIR,shir
+𒋔,U+122D4,ŠIR tenû,shir
+𒋕,U+122D5,ŠIR / ŠIR BUR / BUR,shir.shir.bur.bur
+𒋖,U+122D6,ŠITA,shita
+𒋗,U+122D7,ŠU,shu
+𒋘,U+122D8,ŠU / inverted ŠU,shu.shu
+𒋙,U+122D9,ŠU2,shu2
+𒋚,U+122DA,ŠUBUR,shubur
+𒋛,U+122DB,SI,si
+𒋜,U+122DC,SI gunû,si
+𒋝,U+122DD,SIG,sig
+𒋞,U+122DE,SIG4,sig4
+𒋟,U+122DF,SIG4 / SIG4 ŠU2,sig4.sig4.shu2
+𒋠,U+122E0,SIK2,sik2
+𒋡,U+122E1,SILA3,sila3
+𒋢,U+122E2,SU,su
+𒋣,U+122E3,SU / SU,su.su
+𒋤,U+122E4,SUD,sud
+𒋥,U+122E5,SUD2,sud2
+𒋦,U+122E6,SUḪUR,suhur
+𒋧,U+122E7,SUM,sum
+𒋨,U+122E8,SUMAŠ,sumash
+𒋩,U+122E9,SUR,sur
+𒋪,U+122EA,SUR9,sur9
+𒋫,U+122EB,TA,ta
+𒋬,U+122EC,TA*,ta
+𒋯,U+122EF,TA gunû,ta
+𒋭,U+122ED,TA x ḪI,ta.hi
+𒋮,U+122EE,TA x MI,ta.mi
+𒋰,U+122F0,TAB,tab
+𒋲,U+122F2,TAB squared,tab
+𒋱,U+122F1,TAB / TAB NI / NI DIŠ / DIŠ,tab.tab.ni.ni.dish.dish
+𒋳,U+122F3,TAG,tag
+𒋴,U+122F4,TAG x BI,tag.bi
+𒋵,U+122F5,TAG x GUD,tag.gud
+𒋶,U+122F6,TAG x ŠE,tag.she
+𒋷,U+122F7,TAG x ŠU,tag.shu
+𒋸,U+122F8,TAG x TUG2,tag.tug2
+𒋹,U+122F9,TAG x UD,tag.ud
+𒋺,U+122FA,TAK4,tak4
+𒋻,U+122FB,TAR,tar
+𒋼,U+122FC,TE,te
+𒋽,U+122FD,TE gunû,te
+𒋾,U+122FE,TI,ti
+𒋿,U+122FF,TI tenû,ti
+𒎗,U+12397,TI2,ti2
+𒌀,U+12300,TIL,til
+𒌁,U+12301,TIR,tir
+𒌂,U+12302,TIR x TAK4,tir.tak4
+𒌃,U+12303,TIR / TIR,tir.tir
+𒌄,U+12304,TIR / TIR GAD / GAD GAR / GAR,tir.tir.gad.gad.gar.gar
+𒌅,U+12305,TU,tu
+𒌆,U+12306,TUG2,tug2
+𒌇,U+12307,TUK,tuk
+𒌈,U+12308,TUM,tum
+𒌉,U+12309,TUR,tur
+𒌊,U+1230A,TUR / TUR ZA / ZA,tur.tur.za.za
+𒌋,U+1230B,U,u
+𒌌,U+1230C,U GUD,u.gud
+𒎙,U+12399,U U,u.u
+𒌎,U+1230E,U / U PA / PA GAR / GAR,u.u.pa.pa.gar.gar
+𒌏,U+1230F,U / U SUR / SUR,u.u.sur.sur
+𒌍,U+1230D,U U U,u.u.u
+𒌐,U+12310,U / U U reversed / U reversed,u.u.u.u
+𒌑,U+12311,U2,u2
+𒌒,U+12312,UB,ub
+𒌓,U+12313,UD,ud
+𒌚,U+1231A,UD šešig,ud
+𒌙,U+12319,UD gunû,ud
+𒌕,U+12315,UD x BAD,ud.bad
+𒌛,U+1231B,UD šešig x BAD,ud.bad
+𒌔,U+12314,UD KUŠU2,ud.kushu2
+𒌖,U+12316,UD x MI,ud.mi
+𒌘,U+12318,UD x U + U + U gunû,ud.u.u.u
+𒌗,U+12317,UD x U + U + U,ud.u.u.u
+𒌜,U+1231C,UDUG,udug
+𒌝,U+1231D,UM,um
+𒌞,U+1231E,UM x LAGAB,um.lagab
+𒎘,U+12398,UM x ME,um.me
+𒌟,U+1231F,UM x ME + DA,um.me.da
+𒌠,U+12320,UM x ŠA3,um.sha3
+𒌡,U+12321,UM x U,um.u
+𒌢,U+12322,UMBIN,umbin
+𒌣,U+12323,UMUM,umum
+𒌤,U+12324,UMUM x KASKAL,umum.kaskal
+𒌥,U+12325,UMUM x PA,umum.pa
+𒌧,U+12327,UN gunû,un
+𒌦,U+12326,UN,un
+𒌨,U+12328,UR,ur
+𒌪,U+1232A,UR šešig,ur
+𒌩,U+12329,UR crossing UR,ur.ur
+𒌫,U+1232B,UR2,ur2
+𒌬,U+1232C,UR2 x A + ḪA,ur2.a.ha
+𒌭,U+1232D,UR2 x A + NA,ur2.a.na
+𒌮,U+1232E,UR2 x AL,ur2.al
+𒌯,U+1232F,UR2 x ḪA,ur2.ha
+𒌰,U+12330,UR2 x NUN,ur2.nun
+𒌱,U+12331,UR2 x U2,ur2.u2
+𒌲,U+12332,UR2 x U2 + AŠ,ur2.u2.ash
+𒌳,U+12333,UR2 x U2 + BI,ur2.u2.bi
+𒌴,U+12334,UR4,ur4
+𒌵,U+12335,URI,uri
+𒌶,U+12336,URI3,uri3
+𒌷,U+12337,URU,uru
+𒌸,U+12338,URU x A,uru.a
+𒌹,U+12339,URU x AŠGAB,uru.ashgab
+𒌺,U+1233A,URU x BAR,uru.bar
+𒌻,U+1233B,URU x DUN,uru.dun
+𒌼,U+1233C,URU x GA,uru.ga
+𒌽,U+1233D,URU x GAL,uru.gal
+𒌾,U+1233E,URU x GAN2 tenû,uru.gan2
+𒌿,U+1233F,URU x GAR,uru.gar
+𒍀,U+12340,URU x GU,uru.gu
+𒍁,U+12341,URU x ḪA,uru.ha
+𒍂,U+12342,URU x IGI,uru.igi
+𒍃,U+12343,URU x IM,uru.im
+𒍄,U+12344,URU x IŠ,uru.ish
+𒍅,U+12345,URU x KI,uru.ki
+𒍆,U+12346,URU x LUM,uru.lum
+𒍇,U+12347,URU x MIN,uru.min
+𒍈,U+12348,URU x PA,uru.pa
+𒍉,U+12349,URU x ŠE,uru.she
+𒍊,U+1234A,URU x SIG4,uru.sig4
+𒍋,U+1234B,URU x TU,uru.tu
+𒍌,U+1234C,URU x U + GUD,uru.u.gud
+𒍍,U+1234D,URU x UD,uru.ud
+𒍎,U+1234E,URU x URUDA,uru.uruda
+𒍏,U+1234F,URUDA,uruda
+𒍐,U+12350,URUDA x U,uruda.u
+𒍑,U+12351,UŠ,ush
+𒍒,U+12352,UŠ x A,ush.a
+𒍓,U+12353,UŠ x KU,ush.ku
+𒍔,U+12354,UŠ x KUR,ush.kur
+𒍕,U+12355,UŠ x TAK4,ush.tak4
+𒍗,U+12357,UŠ2,ush2
+𒍘,U+12358,UŠUMX,ushumx
+𒍖,U+12356,UŠX,ushx
+𒍙,U+12359,UTUKI,utuki
+𒍚,U+1235A,UZ3,uz3
+𒍛,U+1235B,UZ3 x KASKAL,uz3.kaskal
+𒍜,U+1235C,UZU,uzu
+𒍝,U+1235D,ZA,za
+𒍞,U+1235E,ZA tenû,za
+𒍟,U+1235F,ZA squared x KUR,za.kur
+𒍠,U+12360,ZAG,zag
+𒍡,U+12361,ZAMX,zamx
+𒍢,U+12362,ZE2,ze2
+𒍣,U+12363,ZI,zi
+𒍤,U+12364,ZI / ZI,zi.zi
+𒍥,U+12365,ZI3,zi3
+𒍦,U+12366,ZIB,zib
+𒍧,U+12367,ZIB KABA tenû,zib.kaba
+𒍨,U+12368,ZIG,zig
+𒍩,U+12369,ZIZ2,ziz2
+𒍪,U+1236A,ZU,zu
+𒍫,U+1236B,ZU5,zu5
+𒍬,U+1236C,ZU5 x A,zu5.a
+𒍭,U+1236D,ZUBUR,zubur
+𒍮,U+1236E,ZUM,zum
