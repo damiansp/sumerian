@@ -1,0 +1,30 @@
+{
+  "name": "sumerian",
+  "version": "1.0.0",
+  "description": "An online Sumerian input program (for keyboarding)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo No tests yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiansp/sumerian.git"
+  },
+  "keywords": [
+    "sumerian",
+    "keyboard",
+    "input"
+  ],
+  "author": "Damian Satterthwaite-Phillips",
+  "email": "damiansp@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiansp/sumerian/issues"
+  },
+  "homepage": "https://github.com/damiansp/sumerian#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
