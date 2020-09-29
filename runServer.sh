@@ -1,0 +1,3 @@
+#!/bin/bash
+echo running simple python server...
+python -m SimpleHTTPServer
