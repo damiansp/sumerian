@@ -7,7 +7,13 @@ $(function() {
         console.log(data);
         const key2char = getKey2char(data);
         console.log(key2char);
-    });
+      });
+    let text = document.getElementById('textArea');
+    text.addEventListener('keyup', processText);
+
+    function processText() {
+      console.log(text.value);
+    }
 });
 
 
@@ -20,3 +26,6 @@ function getKey2char(data) {
   }
   return out;
 }
+
+
+
