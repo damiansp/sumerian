@@ -1,18 +1,36 @@
 'use strict';
 
+
+let key2char,
+  keys;
+
+
 $(function() {
     const req = $.getJSON('../data/sumerianTransliterationUnicode.json');
     req.done(function() {
         const data = req['responseJSON'];
         console.log(data);
-        const key2char = getKey2char(data);
+        key2char = getKey2char(data);
+        keys = Object.keys(key2char);
         console.log(key2char);
-      });
+    });
     let text = document.getElementById('textArea');
     text.addEventListener('keyup', processText);
 
     function processText() {
       console.log(text.value);
+      let matches = getMatches(text.value);
+      console.log('Matches:' + matches);
+    }
+
+    function getMatches(txt) {
+      const n = txt.length;
+      console.log(n);
+      let matches = [];
+      for (let key of keys) {
+        if (key.slice(0, n) == txt) matches.push(key);
+      }
+      return matches;
     }
 });
 
