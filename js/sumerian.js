@@ -20,7 +20,7 @@ $(function() {
     function processText() {
       console.log(text.value);
       let matches = getMatches(text.value);
-      console.log('Matches:' + matches);
+      for (let [k, v] of Object.entries(matches)) console.log(`${k}: ${v}`); 
     }
 
     function getMatches(txt) {
@@ -28,7 +28,7 @@ $(function() {
       console.log(n);
       let matches = [];
       for (let key of keys) {
-        if (key.slice(0, n) == txt) matches.push(key);
+        if (key.slice(0, n) == txt) matches.push(key2char[key]);
       }
       return matches;
     }
