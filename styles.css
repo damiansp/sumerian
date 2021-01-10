@@ -1,0 +1,15 @@
+.container {
+    margin-top: 20px;
+}
+
+#input-div {
+    border: solid black 1px;
+}
+
+#outputs {
+    border: solid black 1px;
+}
+
+#textArea {
+    width: 100%;
+}

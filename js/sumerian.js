@@ -15,22 +15,32 @@ $(function() {
         console.log(key2char);
     });
     let text = document.getElementById('textArea');
+    let display = document.getElementById('outputs');
     text.addEventListener('keyup', processText);
 
     function processText() {
       console.log(text.value);
       let matches = getMatches(text.value);
-      for (let [k, v] of Object.entries(matches)) console.log(`${k}: ${v}`); 
+      for (let [k, v] of Object.entries(matches)) console.log(`${k}: ${v}`);
+      displayMatches(matches);
     }
 
     function getMatches(txt) {
       const n = txt.length;
-      console.log(n);
+      if (n == 0) return [];
       let matches = [];
       for (let key of keys) {
         if (key.slice(0, n) == txt) matches.push(key2char[key]);
       }
       return matches;
+    }
+
+    function displayMatches(matches) {
+      let text = '';
+      for (let [k, v] of Object.entries(matches)) {
+        text += `${k}: ${v}\t`;
+      }
+      display.innerHTML = `<p>${text}</p>`;
     }
 });
 
