@@ -2,9 +2,9 @@
 
 A very simple GUI or web-app that lets the user type cuneiform via Roman inputs, akin to the method used for Chinese keyboards. Specifically, glyphs that match the input entered appear in the order of their frequency, and allow the user to use the output number to choose the glyph from the list of potentially matching candidates.
 
-<img href="https://github.com/damiansp/sumerian/blob/master/img/qi.png?raw=true" /img>
-<img href="https://github.com/damiansp/sumerian/blob/master/img/qig.png?raw=true" /img>
-<img href="https://github.com/damiansp/sumerian/blob/master/img/qigo.png?raw=true" /img>
+<img src="https://github.com/damiansp/sumerian/blob/master/img/qi.png?raw=true" />
+<img src="https://github.com/damiansp/sumerian/blob/master/img/qig.png?raw=true" />
+<img src="https://github.com/damiansp/sumerian/blob/master/img/qigo.png?raw=true" />
 
 TODO:
 - [X] Clean files in corpus (remove html tags; make option ot retain `<sup>` and `<sub>` tags
