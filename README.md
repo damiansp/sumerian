@@ -4,4 +4,5 @@ A very simple GUI or web-app that lets the user type cuneiform via Roman inputs,
 
 TODO:
 - [X] Clean files in corpus (remove html tags; make option ot retain `<sup>` and `<sub>` tags
-- [ ] For each clean file, strip out annotations and make dictionary of ngram counts (for n in 1:4 or :5)
+- [X] For each clean file, strip out annotations and make dictionary of ngram counts (for n in 1:4 or :5)
+- [ ] Compile a list of all syllables and their corresponding signs (in unicode)
